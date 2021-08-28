@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Norbert Neumeister / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Norbert Neumeister"
 description              : &description "personal description"
