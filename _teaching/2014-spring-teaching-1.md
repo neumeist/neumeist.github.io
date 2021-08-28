@@ -1,12 +1,5 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+Purdue University
+======
 
 * Electricity and Magnetism (PHYS 271): Fall 2005
 * Electricity and Magnetism for Physics Honors students (PHYS 272H): Spring 2006, Spring 2007, Spring 2008
@@ -17,7 +10,3 @@ location: "City, Country"
 * Introduction to Elementary Particle Physics I (PHYS 564): Fall 2014, Fall 2015, Fall 2016
 * Introduction to Elementary Particle Physics II (PHYS 565): Spring 2016
 * Quantum Mechanics (PHYS 360): Spring 2019, Spring 2020, Spring 2021
-
-
-Heading 1
-======
