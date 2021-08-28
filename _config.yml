@@ -83,8 +83,8 @@ author:
   name             : "Norbert Neumeister"
   avatar           : "profile.png"
   bio              : "Professor of Physics"
-  location         : "West Lafayette, IN"
   employer         : "Purdue University"
+  location         : "West Lafayette, IN"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=htgqRewAAAAJ&hl=en"
   email            : neumeist@purdue.edu
