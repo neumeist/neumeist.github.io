@@ -1,5 +1,12 @@
-Purdue University
-======
+---
+title: "Purdue University"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "West Lafayette, USA"
+---
 
 * Electricity and Magnetism (PHYS 271): Fall 2005
 * Electricity and Magnetism for Physics Honors students (PHYS 272H): Spring 2006, Spring 2007, Spring 2008
