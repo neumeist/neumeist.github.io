@@ -18,7 +18,9 @@ Education
 Professional Positions
 ======
 2014 – present Professor, Department of Physics and Astronomy, Purdue University, USA
+
 2010 – 2014 Associate Professor, Department of Physics, Purdue University, USA
+
 2005 – 2010 Assistant Professor, Department of Physics, Purdue University, USA
 2002 – 2004 Scientific Associate, CERN, Geneva, Switzerland
 2002 – 2004 Scientific Staff, Institute for High Energy Physics Vienna, Austria
