@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+* Ph.D in Physics, University of Technology Vienna, 1996
+* M.S. in Physics, University of Technology Vienna, 1992
+
+Professional Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2014 – present Professor, Department of Physics and Astronomy, Purdue University, USA
+2010 – 2014 Associate Professor, Department of Physics, Purdue University, USA
+2005 – 2010 Assistant Professor, Department of Physics, Purdue University, USA
+2002 – 2004 Scientific Associate, CERN, Geneva, Switzerland
+2002 – 2004 Scientific Staff, Institute for High Energy Physics Vienna, Austria
+1999 – 2001 Research Fellow, CERN, Geneva, Switzerland
+1996 – 1999 Postdoctoral Research Associate at the Inst. for High Energy Physics Vienna, Austria
   
-Skills
+Awards and Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Department of Energy (DoE) Outstanding Junior Investigator Award in High Energy Physics 2006
+* Ruth & Joel Spira Award for Excellence in Undergraduate Education, Physics Department 2008
+* Seed for Success Award, Purdue University 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2019
+* Purdue Research Foundation Research Grant 2005, 2006
+* CERN research fellowship 1999 – 2001
+* Co-recipient of the Particle Physics Prize of the European Physical Society 2013
+   awarded to the CMS collaboration for the discovery of a Higgs boson)
+* LHC Physics Center (LPC) Distinguished Researcher 2017, 2018
 
 Publications
 ======
