@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Group Members"
-permalink: group
+permalink: /group/
 author_profile: true
 ---
 
@@ -44,3 +44,5 @@ author_profile: true
 
 ## Open Positions
 If you are interested to join the group as a postdoc or graduate student please contact me by email.
+
+{% include base_path %}
