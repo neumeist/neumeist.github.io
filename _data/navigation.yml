@@ -3,8 +3,8 @@ main:
   - title: "News"
     url: /news/
     
-  - title: "Team"
-    url: /team/
+  - title: "Group Members"
+    url: /group/
     
   - title: "Research"
     url: /research/
@@ -13,12 +13,20 @@ main:
     url: /publications/
 
   - title: "Talks"
-   # url: /talks/    
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/
     
   - title: "CV"
     url: /cv/
-    
 
+  - title: "Misc"
+    url: /misc/
+    identifier: misc
+    children:
+      - title: "First"
+        url: "/misc/First/"
+      - title: "Second"
+        url: "/misc/second/"
+    

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Neumeister Group"
 title_separator          : "-"
 name                     : &name "Norbert Neumeister"
-description              : &description "personal description"
+description              : &description "Experimental Particle Physics"
 url                      : "https://neumeist.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "neumeist/neumeist.github.io"
@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Norbert Neumeister"
   avatar           : "profile.png"
-  bio              : "Professor of Physics  
-                      Purdue University"
- # employer         : "Purdue University"
+  bio              : "Professor of Physics <br> 
+                     <a href='http://physics.purdue.edu'>Department of Physics and Astronomy</a> <br>
+                     <a href='http://www.purdue.edu'>Purdue University</a>"
+  #employer         : "Purdue University"
   location         : "West Lafayette, IN"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=htgqRewAAAAJ&hl=en"
@@ -176,6 +177,9 @@ kramdown:
 
 # Collections
 collections:
+  news:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -192,16 +196,16 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _news
   - scope:
       path: ""
-      type: posts
+      type: news
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -217,7 +221,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -226,16 +230,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -244,7 +248,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
@@ -253,10 +257,10 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories/:year/:month/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Indianapolis # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

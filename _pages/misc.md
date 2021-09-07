@@ -1,0 +1,40 @@
+---
+layout: archive
+permalink: /misc/
+menus: misc
+title: ""
+author_profile: true
+---
+
+# Miscellanea
+
+## Group Twiki
+* [Purdue Confluence](https://wiki.itap.purdue.edu/display/CMSPhysics/Purdue+CMS+Physics) 
+
+## Resources for Students
+* [CERN Summer Student Lectures](https://indico.cern.ch/category/345/) 
+* [From Raw Data to Physics 1](https://indico.cern.ch/event/716505/attachments/1669162/2699144/SummerStudentLecture_FromRawDataToPhysics_Lecture1_2018.pdf)
+* [From Raw Data to Physics 2](https://indico.cern.ch/event/716506/attachments/1681035/2702362/SummerStudentLecture_FromRawDataToPhysics_Lecture2_2018.pdf)
+* [From Raw Data to Physics 3](https://indico.cern.ch/event/716508/attachments/1649073/2703137/SummerStudentLecture_FromRawDataToPhysics_Lecture3_2018.pdf)
+* [CMS Muon Exercise](https://twiki.cern.ch/twiki/bin/viewauth/CMS/SWGuideCMSDataAnalysisSchoolLPC2020Muons)
+* [CMS Muon Tutorial 1](https://twiki.cern.ch/twiki/bin/viewauth/CMS/MuonHATSatLPC2020)
+* [CMS Muon Tutorial 2](https://github.com/neumeist/MuonHATSatLPC2020)
+* [Statistics](https://statisticsbyjim.com)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+
+## Technical Information
+* [Getting a CERN computer account](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount)
+* [Getting a Fermilab LPC computer account](https://uscms.org/uscms_at_work/physics/computing/getstarted/uaf.shtml)
+* [Getting a Purdue Tier-2 computer account](http://www.physics.purdue.edu/Tier2/user-info/accounts/index.php)
+* Physics Analysis Tools
+* CMSSW reference manual
+* NanoAOD
+* Accessing data from the Tier-2 Storage Element
+
+## Useful Links
+* [PDG](https://pdglive.lbl.gov/Viewer.action)
+* [Data Analysis BriefBook](https://physics.web.cern.ch/DataAnalysis/BriefBook/)
+* [Particle Detector BriefBook](https://physics.web.cern.ch/ParticleDetector/BriefBook/)
+
+
+[//]: <> http://www.physics.purdue.edu/~nneumeis/Students/
