@@ -5,9 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-
 My research is funded by the [Department of Energy Office of Science](https://www.energy.gov/science/office-science), the [National Science Foundation](https://nsf.gov) and the [Purdue Research Foundation](http://prf.org).
-
 
 # Current:
 
@@ -47,15 +45,15 @@ In the framework development, we pursue two main objectives. Firstly, to impleme
 processing in a way that accelerates both development and performance by using a columnar
 approach (via coffea, awkward-array). Secondly, to distribute the computations across a
 local Analysis Facility using custom Dask workflows in a way that efficiently utilizes available
-computing resources.
-
+computing resources.  
 The Analysis Facility (AF) at the Tier-2 center at Purdue is implemented on top of the existing CMS computing infrastructure and
 in1cludes a dedicated Storage Element based on HDFS; a dedicated Compute Element, as well as
 opportunistic access to all Community Clusters, including one dedicated to GPU workloads;
 and centralized disk- and tape-storage systems. After its currently undergoing expansion, the
 AF will also allow bursting into the public cloud providers.
-In its final design theAnalysis Facilitywill leverage the Service forWeb basedANalysis (SWAN)
-project at CERN and the Geddes Composable Platform [15] - a Kubernetes-based “Community Cloud” resource at Purdue - to provide a platform for flexible, elastic, and customizable cloud and container computing with bursting capabilities to the Community Clusters at Purdue
+In its final design the Analysis Facility will leverage the Service for Web-based ANalysis (SWAN)
+project at CERN and the [Geddes Composable Platform](https://doi.org/10.1109/SuperCompCloud51944.2020.00011) - a Kubernetes-based “Community Cloud” resource at 
+Purdue - to provide a platform for flexible, elastic, and customizable cloud and container computing with bursting capabilities to the Community Clusters at Purdue
 due, Open Science Grid, and the public clouds.
 
 
