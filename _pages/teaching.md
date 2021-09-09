@@ -17,7 +17,7 @@ author_profile: true
   [Course details](http://physics.purdue.edu/academic-programs/courses/course_detail.php?c=phys220)  
   [Syllabus](/files/Syllabus_220.pdf)  
 
-- PHYS 271: **Electricity and Magnetism**
+- PHYS 272: **Electricity and Magnetism**
 : Fall 2005  
   [Course details](http://physics.purdue.edu/academic-programs/courses/course_detail.php?c=phys272)  
 
