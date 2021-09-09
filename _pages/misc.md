@@ -21,6 +21,7 @@ author_profile: true
 * [CMS Muon Tutorial 2](https://github.com/neumeist/MuonHATSatLPC2020)
 * [Statistics](https://statisticsbyjim.com)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+* [Pattern Recognition and Machine Learning](http://research.microsoft.com/∼cmbishop/PRML)
 
 ## Technical Information
 * [Getting a CERN computer account](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount)
