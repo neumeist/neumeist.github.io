@@ -20,7 +20,7 @@ boson pairs with rates consistent with those of the Standard Model Higgs boson. 
 Model jigsaw-puzzle of the elementary building blocks of matter and their interactions via forces of nature.
 Despite all the successes of the Standard Model many questions are left unanswered and the Standard Model is unsatisfactory when extrapolated
 to higher energies. It is widely believed that the Standard Model is an effective ‘low energy’ theory of
-a more complete theory that addresses many of the shortcomings of the SM. The search for
+a more complete theory that addresses many of its shortcomings. The search for
 phenomena that are not explained by the Standard Model is thus an extremely important activity of experimental high energy physicists.
 
 I am currently involved in the [Compact Muon Solenoid](https://cms.cern) (CMS) experiment at the
