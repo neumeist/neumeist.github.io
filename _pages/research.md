@@ -44,7 +44,7 @@ workflows.
 In the framework development, we pursue two main objectives. Firstly, to implement data
 processing in a way that accelerates both development and performance by using a columnar
 approach (via coffea, awkward-array). Secondly, to distribute the computations across a
-local Analysis Facility using custom Dask workflows in a way that efficiently utilizes available
+local Analysis Facility using custom [Dask](https://dask.org) workflows in a way that efficiently utilizes available
 computing resources.  
 The Analysis Facility (AF) at the Tier-2 center at Purdue is implemented on top of the existing CMS computing infrastructure and
 in1cludes a dedicated Storage Element based on HDFS; a dedicated Compute Element, as well as
