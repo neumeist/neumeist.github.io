@@ -58,7 +58,7 @@ due, Open Science Grid, and the public clouds.
 
 
 - **Principal investigator of the US CMS Tier-2 analysis center at Purdue:**
-: In collaboration with the [Information Technology at Purdue (ITaP) research computing](https://www.rcac.purdue.edu/about) I operating the [CMS Tier-2 analysis center](http://www.physics.purdue.edu/Tier2/), which enables and supports important physics analyses.
+: In collaboration with the [Information Technology at Purdue (ITaP) research computing](https://www.rcac.purdue.edu/about) I am operating the [CMS Tier-2 analysis center](http://www.physics.purdue.edu/Tier2/), which enables and supports important physics analyses.
 
 - **Operations and maintenance of the Forward Pixel detector:**
 : My group has been taking active part in the commissioning, operations and data quality monitoring of the forward pixel detector (FPIX).
