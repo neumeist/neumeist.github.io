@@ -11,7 +11,7 @@ redirect_from:
 My area of research is in experimental particle physics where we use accelerators to search for new particles and
 study the properties of the elementary constituents of matter and their interactions at the most fundamental level.
 For the past 50 years, the current theory of particles and fields,
-known as the [Standard Model of Particle Physics](https://www.energy.gov/science/doe-explainsthe-standard-model-particle-physics) which encompasses electromagnetic, weak and strong interactions, has been unexpectedly successful in describing with high precision the results of the great majority of particle physics experiments.
+known as the [Standard Model of Particle Physics](https://www.energy.gov/science/doe-explainsthe-standard-model-particle-physics) has been unexpectedly successful in describing with high precision the results of the great majority of particle physics experiments.
 Its mechanism of spontaneous electroweak symmetry
 breaking requires the existence of a neutral scalar particle, the Higgs boson. The Standard Model predicts the Higgs
 boson couplings to all other particles of known mass, but its mass remains unspecified. In the summer of 2012 the
