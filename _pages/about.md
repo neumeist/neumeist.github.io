@@ -25,8 +25,7 @@ phenomena that are not explained by the Standard Model is thus an extremely impo
 
 I am currently involved in the [Compact Muon Solenoid](https://cms.cern) (CMS) experiment at the
 [Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider) at [CERN](http://www.cern.ch)
- and my research is focused on understanding
-the mechanism by which the symmetry between the electromagnetic and weak interaction is broken, the search for
+ and my research is focused on measuring the properties of the Higgs boson, the search for
 new physics beyond the established Standard Model, the understanding of the structure of the proton and large-scale
 distributed data analysis.
 
