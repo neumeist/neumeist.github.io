@@ -53,8 +53,8 @@ and centralized disk- and tape-storage systems. After its currently undergoing e
 AF will also allow bursting into the public cloud providers.
 In its final design the Analysis Facility will leverage the Service for Web-based ANalysis (SWAN)
 project at CERN and the [Geddes Composable Platform](https://doi.org/10.1109/SuperCompCloud51944.2020.00011) - a Kubernetes-based “Community Cloud” resource at 
-Purdue - to provide a platform for flexible, elastic, and customizable cloud and container computing with bursting capabilities to the Community Clusters at Purdue
-due, Open Science Grid, and the public clouds.
+Purdue - to provide a platform for flexible, elastic, and customizable cloud and container computing with bursting capabilities to the Community Clusters at Purdue, the
+ Open Science Grid, and public clouds.
 
 
 - **Principal investigator of the US CMS Tier-2 analysis center at Purdue:**
