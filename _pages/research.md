@@ -16,7 +16,7 @@ My research is funded by the [Department of Energy Office of Science](https://ww
 : One of the fundamental predictions of the Standard Model is Lepton Flavour Universality (LFU). Any deviation from this prediction would indicate the existence of physics beyond the Standard Model.
 Hints for LFU violation in several measurements of rare B-meson decays recently reported by the LHCb Collaboration have sparked interest in models for physics beyond the SM that could explain these effects, such as heavy neutral gauge bosons or leptoquarks. Some of these models would result in a significant deviation from unity of the ratio of the dimuon to dielectron differential cross section as a function of dilepton mass. To search for signs of LFU violation at high dilepton mass we spearheaded a new analysis, where the ratio of the differential dilepton production cross sections in the muon and electron channels is measured as a function of dilepton mass. This is the first measurement of this kind at the LHC and the results have been recently published.
 
-- **Search for new heavy physics using dimuon + b jet events:**
+- **Search for new physics using dimuon + b jet events:**
 : We recently started a new search that can improve the sensitivity to new physics in dimuon + b jet events.  We study the impact of contact interactions involving two leptons (electrons or muons) and two b-quarks on the high-mass dilepton region at the LHC. The idea is based on [1](https://arxiv.org/abs/1805.11402), 
 [2](https://arxiv.org/abs/1912.00425), 
 [3](https://arxiv.org/pdf/2005.06457.pdf) and 
