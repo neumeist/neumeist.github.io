@@ -29,9 +29,9 @@ author_profile: true
 * [Getting a Purdue Tier-2 computer account](http://www.physics.purdue.edu/Tier2/user-info/accounts/index.php)
 * [Local CMS computing tutorial](https://www.physics.purdue.edu/Tier2/user-info/tutorials/cmssw_job_tutorial.php)
 * Physics Analysis Tools
-* CMSSW reference manual
-* NanoAOD
-* Accessing data from the Tier-2 Storage Element
+* [CMSSW reference manual](https://cmsdoxygen.web.cern.ch/cmsdoxygen/)
+* [NanoAOD](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookNanoAOD)
+* [Accessing data from the Tier-2 Storage Element](https://www.physics.purdue.edu/Tier2/user-info/tutorials/hdfs_commands.php)
 
 ## Useful Links
 * [PDG](https://pdglive.lbl.gov/Viewer.action)
