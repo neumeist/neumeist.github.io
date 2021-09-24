@@ -27,6 +27,7 @@ author_profile: true
 * [Getting a CERN computer account](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount)
 * [Getting a Fermilab LPC computer account](https://uscms.org/uscms_at_work/physics/computing/getstarted/uaf.shtml)
 * [Getting a Purdue Tier-2 computer account](http://www.physics.purdue.edu/Tier2/user-info/accounts/index.php)
+* [Local CMS computing tutorial](https://www.physics.purdue.edu/Tier2/user-info/tutorials/cmssw_job_tutorial.php)
 * Physics Analysis Tools
 * CMSSW reference manual
 * NanoAOD
