@@ -28,7 +28,7 @@ author_profile: true
 * [Getting a Fermilab LPC computer account](https://uscms.org/uscms_at_work/physics/computing/getstarted/uaf.shtml)
 * [Getting a Purdue Tier-2 computer account](http://www.physics.purdue.edu/Tier2/user-info/accounts/index.php)
 * [Local CMS computing tutorial](https://www.physics.purdue.edu/Tier2/user-info/tutorials/cmssw_job_tutorial.php)
-* [CMSSW on Github}(http://cms-sw.github.io)
+* [CMSSW on Github](http://cms-sw.github.io)
 * [CMSSW reference manual](https://cmsdoxygen.web.cern.ch/cmsdoxygen/)
 * [NanoAOD](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookNanoAOD)
 * [Accessing data from the Tier-2 Storage Element](https://www.physics.purdue.edu/Tier2/user-info/tutorials/hdfs_commands.php)
