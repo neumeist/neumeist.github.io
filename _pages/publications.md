@@ -7,6 +7,10 @@ author_profile: true
 The complete list of my publications can be found at [INSPIRE HEP](http://inspirehep.net/search?ln=en&p=find+author+neumeister%2C+n&of=hb&action search=Search). You can also find my articles on my <a href="https://scholar.google.com/citations?user=htgqRewAAAAJ&hl=en">Google Scholar</a> profile.
 Here is a list of selected papers that best represent my own work and where my group played a major role:
 
+* A. Sirunyan et al. [CMS Collaboration], **The Phase-2 Upgrade of the CMS Data Acquisition and High Level Trigger**,
+CERN-LHCC-2021-007, CMS-TDR-022 (2021),
+[https://cds.cern.ch/record/2759072](https://cds.cern.ch/record/2759072)
+
 *  A. Sirunyan et al. [CMS Collaboration], **Search for resonant and non-resonant new phenomena in high mass dilepton final states at &radic;s = 13 TeV**,
 J. High Energy Phys. **07** (2021) 208.  
 [doi:10.1007/JHEP07(2021)208](https://doi.org/10.1007/JHEP07(2021)208)
