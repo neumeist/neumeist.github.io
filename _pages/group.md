@@ -22,6 +22,7 @@ author_profile: true
 * Bibhuprasad Mahakud, 2018 – 2019 (Indian Institute of Technology Bhubaneswar, India)
 * Manoj Jha, 2012 – 2016 (Equifax Inc.)
 * Santiago Folgueras, 2016 – 2017 (University of Oviedo, Spain)
+* Nicolò Trevisani, 2019 - 2019 (KIT, Germany)
 * Federica Primavera, 2014 – 2015 (University of Bologna, Italy)
 * Benjamin Radburn-Smith, 2013 – 2016 (Seoul National University, Korea)
 * Hwidong Yoo, 2008 – 2014 (Yonsei University, Korea)
