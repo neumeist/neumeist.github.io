@@ -235,7 +235,9 @@ Phys. Lett. B **275** (1992) 186–194.
 [doi:10.1016/0370-2693(92)90874-4]('https://doi.org/10.1016/0370-2693(92)90874-4')
 
 ---
-
+*	ATLAS & CMS Collaboration, **Snowmass White Paper Contribution: Physics with the Phase-2 ATLAS and CMS Detectors**, CMS PAS FTR-22-001.
+*	CMS Collaboration, **Prospects for the precise measurement of the Higgs boson properties in the H→μμ decay channel at the HL-LHC**, CMS PAS FTR-21-006.
+*	CMS Collaboration, **Sensitivity projections for a search for new phenomena at high dilepton mass for the LHC Run 3 and the HL-LHC**, CMS PAS FTR-21-005.
 *	CMS Collaboration, **Muon Reconstruction and Identification Performance with Run-2 data**, CMS DP-2020-040.
 *	CMS Collaboration, **Measurement of Higgs boson decay to a pair of muons in proton-proton collisions at &radic;s = 13 TeV**, CMS PAS HIG-19-006.
 *	CMS Collaboration, **Search for a narrow resonance in high-mass dilepton final states in proton-proton collisions using 140 fb<sup>−1</sup> of data at &radic;s = 13 TeV**, CMS PAS-EXO-19-019.
