@@ -7,6 +7,7 @@ author_profile: true
 
 Presentations given by members of my group:
 
+*	Arnab Purohit, **Experimental searches for low & high mass Higgs bosons**, Hunting SUSY at HL-LHC, India, Nov 22-26, 2021.
 * Jan-Frederik Schulte, **Searches for new physics in CMS in events with leptons and photons in the final state**, EPS-HEP2021: European Physical Society Conference on High Energy Physics, DESY and University of Hamburg, 26-30 Jul 2021, Video only (Virtual World).
 * Dmitry Kondratyev, **The first evidence for Higgs boson decay to a pair of muons**, American Physical Society April Meeting 2021, 17-20 Apr 2021, Video only (Virtual World).
 *	Minxi Yang, **Testing lepton flavor universality with high mass dilepton events using the CMS Run 2 dataset**, American Physical Society April Meeting 2021, 17-20 Apr 2021, Video only (Virtual World).
