@@ -258,6 +258,15 @@ Phys. Lett. B **275** (1992) 186–194.
 * CMS Collaboration, **Performance of CMS muon identification in pp collisions at &radic;s = 7 TeV**, CMS PAS-MUO-10-002.
 * CMS Collaboration, **Performance of CMS muon reconstruction and identification in pp collisions at &radic;s = 7 TeV**, CMS PAS-MUO-10-004.
 
+---
+
+* D. Kondratyev, A. Purohit, J. Schulte, N. Neumeister, **Optimization of the outside-in Level-3 muon reconstruction CMS Muon High Level Trigger**, CMS-AN-21-156.
+* D. Kondratyev, A. Purohit, N. Neumeister, **Extrapolated measurement precision for Higgs boson properties in the H→μμ decay channel at the HL-LHC for Snowmass 2022**, CMS-AN-22-006.
+* N. Neumeister, J. Schulte, M. Yang, **Sensitivity extrapolation for the Run 3 and HL-LHC data taking periods for the high mass dilepton search**, CMS-AN-21-188.
+* D. Kondratyev, S. Piperov, N. Neumeister, **Implementation and benchmarking of a VBF H→μμ analysis framework using an interactive, parallel Analysis Facility environment**, CMS-AN-20-240.
+* D. Kovalskyi, J. Schulte, **Measurement of prefiring in the L1 muon trigger in Run 2**, CMS-AN-21-086.
+* M. Yang, J. Schulte, N. Neumeister, **Search for Lepton Flavor Universality violation in high-mass dilepton final states with the Run 2 dataset**, CMS-AN-21-153.
+* J. Schulte, **Searches for new physics in CMS in events with leptons and photons in the final state**, CMS-CR-21-127.
 
 
 {% include base_path %}
