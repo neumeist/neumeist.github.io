@@ -13,7 +13,7 @@ author_profile: true
   [Course details](http://physics.purdue.edu/academic-programs/courses/course_catalog_details.php?c=phys149)
 
 - PHYS 220: **General Physics**
-: Fall 2006, Fall 2007, Fall 2008, Spring 2017, Fall 2019, Fall 2020, Fall 2021  
+: Fall 2006, Fall 2007, Fall 2008, Spring 2017, Fall 2019, Fall 2020, Fall 2021, Fall 2022  
   [Course details](http://physics.purdue.edu/academic-programs/courses/course_detail.php?c=phys220)  
   [Syllabus](/files/Syllabus_220.pdf)  
 
