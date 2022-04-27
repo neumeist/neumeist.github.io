@@ -304,7 +304,21 @@ Phys. Lett. B **275** (1992) 186–194.
 * N. Neumeister, **Measurement of the Drell–Yan differential cross section in pp collisions at 7 TeV**, CMS CR–2011/140.
 * N. Neumeister, **Search for Heavy Stable Charged Particles in CMS**, CMS CR–2011/043.
 
-
+* C. Liu, N. Neumeister, **Reconstruction of Cosmic and Beam Halo Muons**, CMS Note/2008–001.
+* M. Chen, A. Everett, C. Liu, N. Neumeister et al., **Search for New High-Mass Resonances Decaying to Muon Pairs in the CMS Experiment**, CMS AN–2007/038.
+* N. Adam, N. Neumeister et al., **Measurement of the inclusive W→𝞵𝞶 and Z→𝞵𝞵 cross sections in pp collisions at
+&radic;s = 14 TeV**, CMS AN–2007/031.
+* C. Leonidopoulos, A. Everett, C. Liu, N. Neumeister et al., **CMS High Level Trigger**, CMS Note/2007–009.
+* I. Belotelov, I. Golutvin, A. Lanyov, E. Rogalev, S. Shmatov, J. Fernandez de Troconiz, I. Mikulec, N. Neumeister, V. Valuev, **Influence of misalignment scenarios on muon reconstruction**, CMS Note/2006–017.
+* E. James, Y. Maravin, M. Mulders, N. Neumeister, **Muon Identification in CMS**, CMS Note/2005–047.
+* I. Belotelov, N. Neumeister, **Performance of the CMS offline muon reconstruction software**, CMS Note/2005–010.
+* V. Innocente, M. Lamanna, E. Meschi, N. Neumeister, L. Bauerdick, R. Harris, A. Yagil, L. Silvestris, S. Lacaprara, **Report of the CMS Data Management RTAG**, CMS IN–2004/038.
+* L. Boldizsar, P. Hidas, J. Ero, M. Fierro, A. Jeitler, N. Neumeister, P. Porth, L. Rurua, H. Sakulin, C.-E. Wulz, **The Efficiency of the CMS Level-1 Trigger for SUSY Events**, CMS NOTE/2003–028.
+* G. Bruno, P.T. Cox, S. Lacaprara, N. Neumeister, B. Van de Vyver, S. Villa, R. Wilkinson, **Local reconstruction in the Muon Detectors**, CMS NOTE/2002–043.
+* N. Amapane, S. Arcelli, D. Bonacorsi, A. Fanfani, U. Gasparini, M. Konecki, S. Lacaprara, M. Maggi, N. Neumeister, H. Rick, H. Sakulin, **Monte Carlo Simulation of Inclusive Single- and Di-Muon Samples**, CMS NOTE/2002–041.
+* D. Acosta, G. Bruno, T. Cox, J.R. Smith, M. Dallavalle, A. Fanfani, C. Grandi, M. Fierro, U. Gasparini, S. Lacaprara, P. Ronchese, N. Neumeister, H. Rick, B. Tannenbaum, A. Vitelli, R. Wilkinson, **Results on L2 trigger reconstruction in single and di-muon topologies**, CMS NOTE/2001–011.
+* N. Neumeister, U. Gasparini, S. Lacaprara, A. Fanfani, H. Rick, A. Vitelli, **Monte Carlo Simulation for High Level Trigger Studies in Single and Di-Muon Topologies**, CMS IN/2000–053.
+* G.M. Dallavalle, N. Neumeister, C.-E.Wulz, B.P. Padley, G. Wrochna, J. Hauser, D. Acosta, **Issues Related to the Separation of the Barrel and Endcap Muon Trigger Track-Finders**, CMS IN/1999–015.
 * G.M. Dallavalle, M. Fierro, V. Genchev, C. Grandi, N. Neumeister, P. Porth, H. Rohringer, **A simplified Track Assembler I/O for the Muon Trigger Track Finder**, CMS NOTE/1998–042.
 * N. Neumeister, **Search for scalar top quarks in the stop→bl𝞶 channel at &radic;s = 183 GeV**, DELPHI–Note 98–158.
 * W. Adam, P. Allport, S. Amato, M. Berggren, M. Besanc¸on, A. Galloni, M. Gandelmann, Ph. Gris, B. King, J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**, DELPHI–Note 98–92.
@@ -312,11 +326,11 @@ Phys. Lett. B **275** (1992) 186–194.
 * N. Neumeister, A. Taurok, C.-E. Wulz, F. Szoncso, **CMS Global Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS NOTE/1997–009.
 * F. Loddo, A. Ranieri, G. De Robertis, S. Cittolin, A. Kluge, T. Wildschek, G. Wrochna, D. Acosta, T.Y. Ling, R. Breedon, Y. Fisyak, W. Ko, J. Rowe, D. Belosludtsev, A. Chvyrov, I. Golutvin, I. Gramenitsky, V. Karjavin, V. Khabarov, S. Khabarov, Y. Kiryushin, P. Moissenz, S. Movchan, V. Palichik, V. Poze, S. Selunin, D. Smolin, A. Zarubin, J. Hauser, M. De Giorgi, F. Gasparini, I. Lippi, R. Martinelli, A.J. Ponte Sancho, P. Zotto, G. Mitselmakher, N. Neumeister, F. Szoncso, C.-E. Wulz, M. Gorski, M. Konecki, J. Krolikowski, I.M. Kudla, W.H. Smith, **CMS Muon Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS TN/96–060.
 * N. Neumeister, **CP violation studies in ATLAS and CMS**, CMS TN/95–178.
-* R. Fr&Uuml;hwirth and N. Neumeister, **Automatic analysis of FCA drift time spectra**, DELPHI–Note 95–43.
+* R. Fr&uuml;hwirth and N. Neumeister, **Automatic analysis of FCA drift time spectra**, DELPHI–Note 95–43.
 * A. Fridman, R. Kinnunen, N. Neumeister, **Decays and Production of Beauty Baryons in pp Interaction**, CMS TN/94–227.
+* D. Denegri, Y. Lemoigne, A. Fridman, C. Racca, A. Rubbia, G. Wrochna, J. Hassard, S. Margetides, T.S. Virdee, V. Karimaki, M. Pimia, A. Karchilava, M. Konecki, N. Neumeister, N. Sinanis, A. Starodumov, **B Physics and CP Violation Studies in CMS**, CMS TN/93–012.
 * N. Neumeister, **Measurement of CP-violation in B-decays with CMS**, CMS TN/93–089.
 * N. Neumeister, **Measurement of CP-Violation in B-Decays with the CMS Detector**, CMS TN/93–069.
-* D. Denegri, Y. Lemoigne, A. Fridman, C. Racca, A. Rubbia, G. Wrochna, J. Hassard, S. Margetides, T.S. Virdee, V. Karimaki, M. Pimia, A. Karchilava, M. Konecki, N. Neumeister, N. Sinanis, A. Starodumov, **B Physics and CP Violation Studies in CMS**, CMS TN/93–012.
 * Y. Lemoigne and N. Neumeister, **Measurements of CP-Violation in B-Decays**, CMS TN/92–051.
 
 {% include base_path %}
