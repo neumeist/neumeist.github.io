@@ -267,7 +267,7 @@ Phys. Lett. B **275** (1992) 186–194.
 ---
 * D. Kondratyev, A. Purohit, N. Neumeister, **Extrapolated measurement precision for Higgs boson properties in the H→μμ decay channel at the HL-LHC for Snowmass 2022**, CMS AN-2022/006.
 * N. Neumeister, J.-F, Schulte, M. Yang, **Sensitivity extrapolation for the Run 3 and HL-LHC data taking periods for the high mass dilepton search**, CMS AN-2021/188.
-* * D. Kondratyev, A. Purohit, J.-F. Schulte, N. Neumeister, **Optimization of the outside-in Level-3 muon reconstruction CMS Muon High Level Trigger**, CMS AN-2021/156.
+* D. Kondratyev, A. Purohit, J.-F. Schulte, N. Neumeister, **Optimization of the outside-in Level-3 muon reconstruction CMS Muon High Level Trigger**, CMS AN-2021/156.
 * M. Yang, J.-F. Schulte, N. Neumeister, **Search for Lepton Flavor Universality violation in high-mass dilepton final states with the Run 2 dataset**, CMS AN-2021/153.
 * J.-F. Schulte, **Searches for new physics in CMS in events with leptons and photons in the final state**, CMS CR-2021/127.
 * D. Kovalskyi, J.-F. Schulte, **Measurement of prefiring in the L1 muon trigger in Run 2**, CMS AN-2021/086.
