@@ -7,6 +7,7 @@ author_profile: true
 
 Presentations given by members of my group:
 
+* Dmitry Kondratyev, **Implementation and benchmarking of a columnar analysis framework for searches of the Higgs boson decays into two muons**, CompTools2021: Computational Tools for High Energy Physics and Cosmology, 22-26 Nov 2021, Lyon, France.
 *	Arnab Purohit, **Experimental searches for low & high mass Higgs bosons**, Hunting SUSY at HL-LHC, India, Nov 22-26, 2021.
 * Jan-Frederik Schulte, **Searches for new physics in CMS in events with leptons and photons in the final state**, EPS-HEP2021: European Physical Society Conference on High Energy Physics, DESY and University of Hamburg, 26-30 Jul 2021, Video only (Virtual World).
 * Dmitry Kondratyev, **The first evidence for Higgs boson decay to a pair of muons**, American Physical Society April Meeting 2021, 17-20 Apr 2021, Video only (Virtual World).
@@ -84,9 +85,6 @@ Presentations given by members of my group:
 *	C. Liu, **Physics with Dimuon Events with the CMS detector on the Large Hadron Collider**, 2008 APS April Meeting, St. Louis, MO, April 11-15, 2008.
 *	A. Everett, **Experimental aspects of the search for new high-mass resonances decaying to muon pairs in the CMS experiment**, LHC New Physics Signatures Workshop, Ann Arbor, MI, Jan 5-11, 2008.
 * A. Everett, **Status and design of CMS Muon Reconstruction at the Large Hadron Collider with the CMS detector**, 2007 APS April Meeting, Jacksonville, FL, April 14–17, 2007.
-
-
-
 
 
 {% include base_path %}
