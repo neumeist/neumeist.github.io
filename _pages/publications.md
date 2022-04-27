@@ -306,7 +306,7 @@ Phys. Lett. B **275** (1992) 186–194.
 
 * C. Liu, N. Neumeister, **Reconstruction of Cosmic and Beam Halo Muons**, CMS Note/2008–001.
 * M. Chen, A. Everett, C. Liu, N. Neumeister et al., **Search for New High-Mass Resonances Decaying to Muon Pairs in the CMS Experiment**, CMS AN–2007/038.
-* N. Adam, N. Neumeister et al., **Measurement of the inclusive W→𝞵𝞶 and Z→𝞵𝞵 cross sections in pp collisions at
+* N. Adam, N. Neumeister et al., **Towards a measurement of the inclusive W→𝞵𝞶 and Z→𝞵𝞵 cross sections in pp collisions at
 &radic;s = 14 TeV**, CMS AN–2007/031.
 * C. Leonidopoulos, A. Everett, C. Liu, N. Neumeister et al., **CMS High Level Trigger**, CMS Note/2007–009.
 * I. Belotelov, I. Golutvin, A. Lanyov, E. Rogalev, S. Shmatov, J. Fernandez de Troconiz, I. Mikulec, N. Neumeister, V. Valuev, **Influence of misalignment scenarios on muon reconstruction**, CMS Note/2006–017.
@@ -321,7 +321,7 @@ Phys. Lett. B **275** (1992) 186–194.
 * G.M. Dallavalle, N. Neumeister, C.-E.Wulz, B.P. Padley, G. Wrochna, J. Hauser, D. Acosta, **Issues Related to the Separation of the Barrel and Endcap Muon Trigger Track-Finders**, CMS IN/1999–015.
 * G.M. Dallavalle, M. Fierro, V. Genchev, C. Grandi, N. Neumeister, P. Porth, H. Rohringer, **A simplified Track Assembler I/O for the Muon Trigger Track Finder**, CMS NOTE/1998–042.
 * N. Neumeister, **Search for scalar top quarks in the stop→bl𝞶 channel at &radic;s = 183 GeV**, DELPHI–Note 98–158.
-* W. Adam, P. Allport, S. Amato, M. Berggren, M. Besanc¸on, A. Galloni, M. Gandelmann, Ph. Gris, B. King, J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**, DELPHI–Note 98–92.
+* W. Adam, P. Allport, S. Amato, M. Berggren, M. Besancon, A. Galloni, M. Gandelmann, Ph. Gris, B. King, J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**, DELPHI–Note 98–92.
 * N. Neumeister, P. Porth, H. Rohringer, **Simulation of the Global Muon Trigger**, CMS NOTE/1997–023.
 * N. Neumeister, A. Taurok, C.-E. Wulz, F. Szoncso, **CMS Global Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS NOTE/1997–009.
 * F. Loddo, A. Ranieri, G. De Robertis, S. Cittolin, A. Kluge, T. Wildschek, G. Wrochna, D. Acosta, T.Y. Ling, R. Breedon, Y. Fisyak, W. Ko, J. Rowe, D. Belosludtsev, A. Chvyrov, I. Golutvin, I. Gramenitsky, V. Karjavin, V. Khabarov, S. Khabarov, Y. Kiryushin, P. Moissenz, S. Movchan, V. Palichik, V. Poze, S. Selunin, D. Smolin, A. Zarubin, J. Hauser, M. De Giorgi, F. Gasparini, I. Lippi, R. Martinelli, A.J. Ponte Sancho, P. Zotto, G. Mitselmakher, N. Neumeister, F. Szoncso, C.-E. Wulz, M. Gorski, M. Konecki, J. Krolikowski, I.M. Kudla, W.H. Smith, **CMS Muon Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS TN/96–060.
