@@ -31,6 +31,7 @@ author_profile: true
 * [CMSSW on Github](http://cms-sw.github.io)
 * [CMSSW reference manual](https://cmsdoxygen.web.cern.ch/cmsdoxygen/)
 * [NanoAOD](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookNanoAOD)
+* [Combine](https://cms-analysis.github.io/HiggsAnalysis-CombinedLimit/)
 * [Accessing data from the Tier-2 Storage Element](https://www.physics.purdue.edu/Tier2/user-info/tutorials/hdfs_commands.php)
 
 ## Useful Links
