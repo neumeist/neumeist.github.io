@@ -271,7 +271,7 @@ Phys. Lett. B **275** (1992) 186–194.
 * J.-F. Schulte, **Searches for new physics in CMS in events with leptons and photons in the final state**, CMS CR-2021/127.
 * D. Kondratyev, S. Piperov, N. Neumeister, **Implementation and benchmarking of a VBF H→μμ analysis framework using an interactive, parallel Analysis Facility environment**, CMS AN-2020/240.
 * J.-F. Schulte, **Tracking algorithms and performance in Run 2**, CMS AN-2019/043.
-* K. Lee, M. Oh, B. Radburn-Smith, J. Kim, H. Yoo, N. Neumeister, B. Mahakud, J.-F. Schulte, D. Trocino, D. Kovalskyi, S. Folgueras, S. Fiorendi, S. Singh Chhibra, A. Brinkerhoff, **Performance of the CMS Muon Trigger during Run 2 of the LHC**, CMS AN-2019/010.
+* K. Lee, M. Oh, B. Radburn-Smith, J. Kim, H.D. Yoo, N. Neumeister, B. Mahakud, J.-F. Schulte, D. Trocino, D. Kovalskyi, S. Folgueras, S. Fiorendi, S. Singh Chhibra, A. Brinkerhoff, **Performance of the CMS Muon Trigger during Run 2 of the LHC**, CMS AN-2019/010.
 * N. Neumeister, J.-F. Schulte, F. Zhang, L. Spiegel, P. Karchin, S. Pokhrel, J. Sturdy, P. Thapa, S. Zaleski, A. Agarwal, E. Blad, G. Dexter, P. Dong, N. Elkin, A. Fishkin, E. Gonda, Y. Guan, K. Gumpula, M. Hahamy, M. Hokinson, E. Hu, M. Huang, R. Ichhaporia, D. Lee, A. Mallik, S. Mamidi, M. McKelvie, T. Mou, R. Osar, L. Pan, A. Raghavan, C. Reddy, J. Reiter, A. Sharma, H. Smith, K. Speich, E. Springer, T. Tchalakov, V. Timmarakota, E. Tuecke, A. Vanderploeg, M. Vayninger, B. Williams, J. Woods, G. Yue, **Search for a non-resonant excess in high mass dilepton events using the Run 2 dataset**, CMS AN-2019/024.
 * D. Acosta, M. Alhusseini, P. Azzurri, P. Bortignon, D. Bourilkov, A. Brinkerhoff, S. Cooperstein, I. Dutta, R. Gerosa, L. Giannini, M. Klute, D. Kondratyev, T. Kramer, T. Lange, N. Lu, G. Mandorli, A.C. Marini, J. Nachtman, N. Neumeister, Y. Onel, J. Pata, O. Rieger, A. Rizzi, V. Sharma, P. Schleper, M. Spiropulu, A. Vartak, J.-R. Vlimant, S. Xie, X. Zuo, **Search for Higgs boson decays into muons in proton-proton collisions at 13 TeV using Run 2 data sets**, CMS AN-2019/124.
 * B. Clerbaux, D. Cockerill, G. Daskalakis, M. Draguet, Sh. Elgammal, W. Fang, X. Gao, R. Goldouzian, S. Harper, A.K. Kalsi, E. Olaiya, D. Petyt, J.-F. Schulte, C. Shepherd-Themistocleous, L. Thomas, **Search for High Mass Di-Electron Resonances with the Full Run 2 Dataset**, CMS AN-2019/101.
@@ -299,9 +299,20 @@ Phys. Lett. B **275** (1992) 186–194.
 * G. Abbiendi, G. Bagliesi, D. Bourilkov, R. Castello, J.E. Chaves, S.S. Chhibra, A. Colaleo, R. Cousins, G. Daskalakis, N. De Filippis, S. Elgammal, A. Florent,  S. Folgueras, V.A. Giakoumopoulou, A. Lanyov, K. Larson, K.P. Lee, S. Marcellini, K.W. Nam, N. Neumeister, A. Perrotta, F. Primavera, B. Radburn-Smith, R. Radogna, G. Singh, C. Schnaible, P. Spagnolo, J. Sturdy, P. Traczyk, J. Tucker, V. Valuev, H.D. Yoo, **Search for High-Mass Resonances Decaying to Muon Pairs in pp Collisions at &radic;s = 13 TeV**, CMS AN–2015/223.
 * L. Shchutska, M. Carver, D. Acosta, A. Korytov, J. Yelton, G. Mitselmakher, K. Matchev, L. Thomas, D. Dobur, C. Botta, M. Dunser, M. Peruzzi, G. Petrucciani, C. Heidegger, J. Hoss, B. Mangano, M. Marionneau, G. Perrin, S. Folgueras, J. M. Vizan, S. Sanchez Cruz, L. Bauerdick, K. Burkett, O. Gutsche, S. Jindariani, J. Linacre, R. Lopes De Sa, G. Cerati, M. Derdzinski, I. Dyckes, D. Klein, I. MacNeill, D. Olivito, F. Wurthwein, C. Welke, A. Yagil, G. Zevi Della Porta, N. Amin, C. Campagnari, A. George, F. Golf, J. Gran I. Suarez, **Search for SUSY in same-sign dilepton events at 13 TeV**, CMS AN-2015/031.
 * N. Neumeister and A. Svyatkovskiy, **Implementation of the 6x6 alignment uncertainty matrix in the CMS alignment and reconstruction software**, CMS AN–2014/277.
-* N. Neumeister and H. Yoo, **Search for Four Lepton Resonances at 8 TeV**, CMS AN–2014/060.
+* N. Neumeister and H.D. Yoo, **Search for Four Lepton Resonances at 8 TeV**, CMS AN–2014/060.
 * D. Bourilkov, A. Juodagalvis, R. Kamalieddin, I. Kravchenko, E. Olaiya, N. Neumeister, S. Stoynev, A. Svyatkovskiy, K. Sung, H.D. Yoo, **Measurement of the differential Drell–Yan cross sections at &radic;s = 8 TeV**, CMS AN–2013/420.
 * N. Neumeister, **Measurement of the Drell–Yan differential cross section in pp collisions at 7 TeV**, CMS CR–2011/140.
 * N. Neumeister, **Search for Heavy Stable Charged Particles in CMS**, CMS CR–2011/043.
+
+* N. Neumeister, P. Porth, H. Rohringer, **Simulation of the Global Muon Trigger**, CMS NOTE/1997–023.
+* N. Neumeister, A. Taurok, C.-E. Wulz, F. Szoncso, **CMS Global Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS NOTE/1997–009.
+* F. Loddo, A. Ranieri, G. De Robertis, S. Cittolin, A. Kluge, T. Wildschek, G. Wrochna, D. Acosta, T.Y. Ling, R. Breedon, Y. Fisyak, W. Ko, J. Rowe, D. Belosludtsev, A. Chvyrov, I. Golutvin, I. Gramenitsky, V. Karjavin, V. Khabarov, S. Khabarov, Y. Kiryushin, P. Moissenz, S. Movchan, V. Palichik, V. Poze, S. Selunin, D. Smolin, A. Zarubin, J. Hauser, M. De Giorgi, F. Gasparini, I. Lippi, R. Martinelli, A.J. Ponte Sancho, P. Zotto, G. Mitselmakher, N. Neumeister, F. Szoncso, C.-E. Wulz, M. Gorski, M. Konecki, J. Krolikowski, I.M. Kudla, W.H. Smith, **CMS Muon Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS TN/96–060.
+* N. Neumeister, **CP violation studies in ATLAS and CMS**, CMS TN/95–178.
+* R. Fr\¨uhwirth and N. Neumeister, **Automatic analysis of FCA drift time spectra**, DELPHI–Note 95–43.
+* A. Fridman, R. Kinnunen, N. Neumeister, **Decays and Production of Beauty Baryons in pp Interaction**, CMS TN/94–227.
+* N. Neumeister, **Measurement of CP-violation in B-decays with CMS**, CMS TN/93–089.
+* N. Neumeister, **Measurement of CP-Violation in B-Decays with the CMS Detector**, CMS TN/93–069.
+* D. Denegri, Y. Lemoigne, A. Fridman, C. Racca, A. Rubbia, G. Wrochna, J. Hassard, S. Margetides, T.S. Virdee, V. Karimaki, M. Pimia, A. Karchilava, M. Konecki, N. Neumeister, N. Sinanis, A. Starodumov, **B Physics and CP Violation Studies in CMS**, CMS TN/93–012.
+* Y. Lemoigne and N. Neumeister, **Measurements of CP-Violation in B-Decays**, CMS TN/92–051.
 
 {% include base_path %}
