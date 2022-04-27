@@ -304,11 +304,15 @@ Phys. Lett. B **275** (1992) 186–194.
 * N. Neumeister, **Measurement of the Drell–Yan differential cross section in pp collisions at 7 TeV**, CMS CR–2011/140.
 * N. Neumeister, **Search for Heavy Stable Charged Particles in CMS**, CMS CR–2011/043.
 
+
+* G.M. Dallavalle, M. Fierro, V. Genchev, C. Grandi, N. Neumeister, P. Porth, H. Rohringer, **A simplified Track Assembler I/O for the Muon Trigger Track Finder**, CMS NOTE/1998–042.
+* N. Neumeister, **Search for scalar top quarks in the stop→bl𝞶 channel at &radic;s = 183 GeV**, DELPHI–Note 98–158.
+* W. Adam, P. Allport, S. Amato, M. Berggren, M. Besanc¸on, A. Galloni, M. Gandelmann, Ph. Gris, B. King, J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**, DELPHI–Note 98–92.
 * N. Neumeister, P. Porth, H. Rohringer, **Simulation of the Global Muon Trigger**, CMS NOTE/1997–023.
 * N. Neumeister, A. Taurok, C.-E. Wulz, F. Szoncso, **CMS Global Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS NOTE/1997–009.
 * F. Loddo, A. Ranieri, G. De Robertis, S. Cittolin, A. Kluge, T. Wildschek, G. Wrochna, D. Acosta, T.Y. Ling, R. Breedon, Y. Fisyak, W. Ko, J. Rowe, D. Belosludtsev, A. Chvyrov, I. Golutvin, I. Gramenitsky, V. Karjavin, V. Khabarov, S. Khabarov, Y. Kiryushin, P. Moissenz, S. Movchan, V. Palichik, V. Poze, S. Selunin, D. Smolin, A. Zarubin, J. Hauser, M. De Giorgi, F. Gasparini, I. Lippi, R. Martinelli, A.J. Ponte Sancho, P. Zotto, G. Mitselmakher, N. Neumeister, F. Szoncso, C.-E. Wulz, M. Gorski, M. Konecki, J. Krolikowski, I.M. Kudla, W.H. Smith, **CMS Muon Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS TN/96–060.
 * N. Neumeister, **CP violation studies in ATLAS and CMS**, CMS TN/95–178.
-* R. Fr\¨uhwirth and N. Neumeister, **Automatic analysis of FCA drift time spectra**, DELPHI–Note 95–43.
+* R. Fr&Uuml;hwirth and N. Neumeister, **Automatic analysis of FCA drift time spectra**, DELPHI–Note 95–43.
 * A. Fridman, R. Kinnunen, N. Neumeister, **Decays and Production of Beauty Baryons in pp Interaction**, CMS TN/94–227.
 * N. Neumeister, **Measurement of CP-violation in B-decays with CMS**, CMS TN/93–089.
 * N. Neumeister, **Measurement of CP-Violation in B-Decays with the CMS Detector**, CMS TN/93–069.
