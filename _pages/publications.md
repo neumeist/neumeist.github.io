@@ -204,7 +204,7 @@ Nucl. Instr. and Meth. **A 462** (2001) 254–258.
 Eur. Phys. J. C **6** (1999) 385–401.  
 [doi:10.1007/s100529801043](https://doi.org/10.1007/s100529801043)
 
-* W. Adam, P. Allport, S. Amato, M. Berggren, M. Besanc¸on, A.Galloni, M. Gandelmann, Ph. Gris, B. King,
+* W. Adam, P. Allport, S. Amato, M. Berggren, M. Besancon, A. Galloni, M. Gandelmann, Ph. Gris, B. King,
 J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**,
 CERNOPEN-99-473, Pres. at the 29th International Conference on High-Energy Physics, Vancouver, Canada, 23-29 Jul 1998.  
 
@@ -252,15 +252,17 @@ Phys. Lett. B **275** (1992) 186–194.
 * CMS Collaboration, **Search for a Narrow Resonance Produced in 13 TeV pp Collisions Decaying to Electron Pair or Muon Pair Final States**, CMS PAS-EXO-15-005.
 *	CMS collaboration, **Measurements of the differential and double-differential Drell–Yan cross sections in proton-proton collisions at 8 TeV**, CMS PAS-SMP-14-003.
 *	CMS Collaboration, **Search for leptophobic Z' decaying into four leptons in the final state at &radic;s = 8 TeV**, CMS PAS–EXO-14-006.
-*	CMS Collaboration, **Measurement of the differential and double-differential Drell–Yan cross section in proton-proton collisions at 7 TeV**, CMS PAS–SMP-13-003.
 *	CMS Collaboration, **Search for Resonances in the Dilepton Mass Distribution in pp Collisions at &radic;s = 8 TeV**, CMS PAS–EXO-12-061.
 *	CMS Collaboration, **Search for Resonances in the in pp Collisions at &radic;s = 8 TeV**, CMS PAS–EXO-12-015.
 *	CMS Collaboration, **Inclusive W/Z cross section at 8 TeV**, CMS PAS-SMP-12-011.
+*	CMS Collaboration, **Search for Resonances in the Dilepton Mass Distribution in pp Collisions at &radic;s = 7 TeV**, CMS PAS–EXO-11-019.
 * CMS Collaboration, **Update of the Drell Yan analysis with 1.1 fb<sup>-1</sup> of 2011 data**, CMS PAS-EWK-11-020.
+* CMS Collaboration, **Measurement of the differential and double-differential Drell–Yan cross sections in proton-proton collisions at &radic;s = 7 TeV**, CMS PAS–EWK-11-007.
 * CMS Collaboration, **Measurement of Drell-Yan Cross Section (dsigma/dM)**, CMS PAS-EWK-10-007.
 * CMS Collaboration, **Measurements of Inclusive W and Z Cross Sections in pp Collisions at &radic;s = 7 TeV**, CMS PAS-EWK-10-002.
-* CMS Collaboration, **Performance of CMS muon identification in pp collisions at &radic;s = 7 TeV**, CMS PAS-MUO-10-002.
 * CMS Collaboration, **Performance of CMS muon reconstruction and identification in pp collisions at &radic;s = 7 TeV**, CMS PAS-MUO-10-004.
+* CMS Collaboration, **Performance of CMS muon identification in pp collisions at &radic;s = 7 TeV**, CMS PAS-MUO-10-002.
+* CMS Collaboration, **Measurement of the charge asymmetry of atmospheric muons with the CMS detector**, CMS PAS-MUO-10-001.
 
 ---
 * D. Kondratyev, A. Purohit, N. Neumeister, **Extrapolated measurement precision for Higgs boson properties in the H→μμ decay channel at the HL-LHC for Snowmass 2022**, CMS AN-2022/006.
