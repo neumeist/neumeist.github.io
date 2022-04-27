@@ -307,11 +307,27 @@ Phys. Lett. B **275** (1992) 186–194.
 * S. Harper, N. Neumeister, and H.D. Yoo, **Z' to ee/𝞵𝞵 discovery projections at 14 TeV**, CMS AN-2013/196.
 * G. Alverson, I. Belotelov, D. Bourilkov, R. Cousins, I.K. Furic, M. Hohlmann, H. Kalakhety, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, M. Savina, S. Schmitz, S. Shmatov, A. SvyatkovskiyG, P. Traczyk, J. Tucker and V. Valuev, **Search for High Mass Resonances Decaying to Muon Pairs at &radic;s = 8 TeV**, CMS AN–2012/422.
 * I. Belotelov, A. Bodek, D. Bourilkov, A. Everett, I. Furic, J. Han, G.N. Kim, A. Kubik, T.N. Kypreos, A. Lanyov, S.E. Lee, D.H. Miller, N. Neumeister, M. Schmitt, S. Shmatov, D. Silvers, S. Stoynev, A. Svyatkovskiy and H.D. Yoo, **Measurement of the differential and double differential Drell–Yan cross section in protonproton collisions at &radic;s = 7 TeV in the dimuon channel**, CMS AN–2012/063.
-* D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, A. Everett, S. Fonseca De Souza, I.K. Furic, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano,
-J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev and J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with Collisions Gathered at &radic;s = 7 TeV with 2011 Data**, CMS AN–2011/473.
+* D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, A. Everett, S. Fonseca De Souza, I.K. Furic, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano, J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev and J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with Collisions Gathered at &radic;s = 7 TeV with 2011 Data**, CMS AN–2011/473.
 * D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, G.P. Di Giovanni, A. Everett, M. Fisher, S. Fonseca De Souza, I.K. Furic, J. Gartner, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, K. Kotov, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano, J. Piedra Gomez, J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev, J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with Collisions Gathered at &radic;s = 7 TeV**, CMS AN–2011/472.
+* D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, G.P. Di Giovanni, A. Everett, M. Fisher, S. Fonseca De Souza, I.K. Furic, J. Gartner, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, K. Kotov, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano, J. Piedra Gomez, J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev, J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with Collisions Gathered at &radic;s = 7 TeV**, CMS AN-2011/278.
+* D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, G.P. Di Giovanni, A. Everett, M. Fisher, S. Fonseca De Souza, I.K. Furic, J. Gartner, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, K. Kotov, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano, J. Piedra Gomez, J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev, and J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with Collisions gathered at &radic;s = 7 TeV**, CMS AN–2011/222.
 * N. Neumeister, **Measurement of the Drell–Yan differential cross section in pp collisions at 7 TeV**, CMS CR–2011/140.
 * N. Neumeister, **Search for Heavy Stable Charged Particles in CMS**, CMS CR–2011/043.
+* I. Belotelov, D. Bourilkov, A. Everett, M. Fisher, I. Furic, M. Jindal, A. Kubik, T.N. Kypreos, A. Lanyov, K. Mazumdar, N. Neumeister, M. Schmitt, S. Shmatov, J. Singh, S. Stoynev, A. Svyatkovskiy, H.D. Yoo, **Drell–Yan Differential Cross Section Measurement at 7 TeV in the Muon Channel**, CMS AN–2011/013.
+
+* ,**Search for High-Mass Resonances Decaying to Muon Pairs with 15 pb<sup>-1</sup> of collisions gathered at &radic;s = 7 TeV**, CMS AN–2010/317.
+CMS AN-2010/317
+CMS AN-2010/240
+CMS AN-2010/234
+CMS AN–2010/116
+
+CMS AN-2009/190
+CMS AN-2009/151
+CMS AN-2009/150
+CMS AN-2009/127
+CMS AN-2009/102
+
+CMS AN-2008/097
 
 * C. Liu, N. Neumeister, **Reconstruction of Cosmic and Beam Halo Muons**, CMS Note/2008–001.
 * M. Chen, A. Everett, C. Liu, N. Neumeister et al., **Search for New High-Mass Resonances Decaying to Muon Pairs in the CMS Experiment**, CMS AN–2007/038.
