@@ -54,9 +54,12 @@ Proceedings of the LHCP2018 Sixth Annual Conference on Large Hadron Collider Phy
 Phys. Lett. B **768** (2017) 57–80.  
 [doi:10.1016/j.physletb.2017.02.010](https://doi.org/10.1016/j.physletb.2017.02.010)
 
-* V. Khachatryan et al. [CMS Collaboration], **Search for leptophobic Z<sup>0</sup> bosons decaying into four-lepton final states in proton-proton collisions at &radic;s = 8 TeV**,
+* V. Khachatryan et al. [CMS Collaboration], **Search for leptophobic Z<sup>'</sup> bosons decaying into four-lepton final states in proton-proton collisions at &radic;s = 8 TeV**,
 Phys. Lett. B **773** (2017) 563–584.  
 [doi:10.1016/J.physletb.2017.08.069](https://doi.org/10.1016/J.PHYSLETB.2017.08.069)
+
+* N. Neumeister, **W and Z inclusive and differential cross sections at CMS**, PoS ICHEP2016 (2016) 612.
+[doi:10.22323/1.282.0612](https://doi.org/10.22323/1.282.0612)
 
 * V. Khachatryan et al. [CMS Collaboration], **Search for supersymmetry with multiple charged leptons in protonproton collisions at &radic;s = 13 TeV**,
 Eur. Phys. J. C **77** (2017) 635.  
@@ -248,9 +251,10 @@ Phys. Lett. B **275** (1992) 186–194.
 *	CMS Collaboration, **Search for electroweak SUSY production in multilepton final states in 12.9 fb<sup>−1</sup> of pp collision data at &radic;s = 13 TeV**, CMS-PAS-SUS-16-024.
 * CMS Collaboration, **Search for a Narrow Resonance Produced in 13 TeV pp Collisions Decaying to Electron Pair or Muon Pair Final States**, CMS PAS-EXO-15-005.
 *	CMS collaboration, **Measurements of the differential and double-differential Drell–Yan cross sections in proton-proton collisions at 8 TeV**, CMS PAS-SMP-14-003.
+*	CMS Collaboration, **Search for leptophobic Z' decaying into four leptons in the final state at &radic;s = 8 TeV**, CMS PAS–EXO-14-006.
 *	CMS Collaboration, **Measurement of the differential and double-differential Drell–Yan cross section in proton-proton collisions at 7 TeV**, CMS PAS–SMP-13-003.
 *	CMS Collaboration, **Search for Resonances in the Dilepton Mass Distribution in pp Collisions at &radic;s = 8 TeV**, CMS PAS–EXO-12-061.
-*	CMS Collaboration, **Search for Resonances in the in pp Collisions at &radic;s = 8 TeV**,  CMS PAS– EXO-12-015.
+*	CMS Collaboration, **Search for Resonances in the in pp Collisions at &radic;s = 8 TeV**, CMS PAS–EXO-12-015.
 *	CMS Collaboration, **Inclusive W/Z cross section at 8 TeV**, CMS PAS-SMP-12-011.
 * CMS Collaboration, **Update of the Drell Yan analysis with 1.1 fb<sup>-1</sup> of 2011 data**, CMS PAS-EWK-11-020.
 * CMS Collaboration, **Measurement of Drell-Yan Cross Section (dsigma/dM)**, CMS PAS-EWK-10-007.
@@ -276,10 +280,22 @@ Phys. Lett. B **275** (1992) 186–194.
 * G. Abbiendi, I. Bachiller, C. Battilana, S.S. Chhibra, B. DeLaCruz, F. Errico, A. Escalante, A. Florent, O. Gonzalez, H.D. Yoo, S. Kaur, A. Lanyov, M.S. Oh, F. Primavera, B. Radburn-Smith, R. Radogna, C. Schnaible, J.-F. Schulte, J. Sturdy, P. Traczyk, D. Trocino, S. Wuyckens, H.D Yoo, **Performance of high-pt muons collected with CMS at √s=13 TeV during proton-proton collisions**, CMS AN-2018/008.
 * G. Abbiendi, A. Albert, A. Alfonsi, C. Battilana, D. Bourilkov, S.S. Chhibra, R. Cousins, N. De Filippis, S. Elgammal, F. Errico, A. Florent, S. Folgueras, A. Lanyov, K.P. Lee, K.W. Nam, N. Neumeister, M.S. Oh, F. Primavera, B. Radburn-Smith, R. Radogna, C. Schnaible, J.-F. Schulte, G. Tansella, P. Traczyk, H.D. Yoo, K. M. Liyanage, D. Yu, M. Yang, **Search for High-Mass Resonances Decaying to Muon Pairs in pp Collisions at sqrt(s) = 13 TeV with the full 2017 and 2018 data set of 103/fb and combination with 2016 result**, CMS AN-2018/011.
 * B. Clerbaux, D. Cockerill, G. Daskalakis, M. Draguet, Sh. Elgammal, W. Fang, X. Gao, R. Goldouzian, S. Harper, A.K. Kalsi, E. Olaiya, D. Petyt, J.-F. Schulte, C. Shepherd-Themistocleous, L. Thomas, **Search for high-mass resonances in the di-electron final state with 2018 data**, CMS AN-2018/253.
-* D. Acosta, M. Alhusseini, P. Azzurri, P. Bortignon, D. Bourilkov, A. Brinkerhoff, S. Cooperstein, I. Dutta, R. Gerosa, L. Giannini, M. Klute, D. Kondratyev, T. Kramer, T. Lange, N. Lu, G. Mandorli, A.C. Marini, J. Nachtman, N. Neumeister, Y. Onel, J. Pata, O. Rieger, A. Rizzi, V. Sharma, P. Schleper, M. Spiropulu, A. Vartak, J.-R. Vlimant, S. Xie, X. Zuo, **Search for Higgs boson decays into muons in proton-proton collisions at 13 TeV using Run2 data sets**, CMS AN-2019/124.
+* D. Acosta, M. Alhusseini, P. Azzurri, P. Bortignon, D. Bourilkov, A. Brinkerhoff, S. Cooperstein, I. Dutta, R. Gerosa, L. Giannini, M. Klute, D. Kondratyev, T. Kramer, T. Lange, N. Lu, G. Mandorli, A.C. Marini, J. Nachtman, N. Neumeister, Y. Onel, J. Pata, O. Rieger, A. Rizzi, V. Sharma, P. Schleper, M. Spiropulu, A. Vartak, J.-R. Vlimant, S. Xie, X. Zuo, **Search for Higgs boson decays into muons in proton-proton collisions at 13 TeV using Run 2 data sets**, CMS AN-2019/124.
 * Th. Klaeboe Aarrestad, G. Abbiendi, A. Albert, J. Alcaraz Maestre, A. Alfonsi, M. Bachtis, L. Benato, F. Bispinck, D. Bourilkov, V. Candelise, Y.-H. Chang, C.-W. Chen, T. Cheng, S.S. Chhibra, A. Cocoros, R. Cousins, J. Damgov, N. De Filippis, B. de la Cruz Martinez, M. Defranchis, Ph. Dudero, S. Elgammal, F. Errico, A. Escalante del Valle, J. Fernandez de Troconiz, A. Florent, S. Folgueras, C. Galloni, L. Giannini, O. Gonzalez Lopez, M. Gouzevitch, P. Govoni, U. Heintz, A. Hinzmann, B. Hirosky, K. Hoepfner, H. Huang, R. Khurana, B. Kilminster, D.H. Kim, M. Krohn, C. Lange, A. Lanyov, J.E. Lee, S.-W. Lee, K.P. Lee, Q. Li, H. Li, S.-X. Liu, P. Lujan, D. Majumder, P. Maksimovic, M. Materok, D. Moran, Matthias Mozer, K.W. Nam, N. Neumeister, J.  Ngadiuba, Y.D. Oh, M.S. Oh, M. Osherson, K. Padeken, N. Parashar, J. Pazzini, M. Pierini, F. Primavera, B. Radburn-Smith, R. Radogna, S. Rappoccio, S.  Regnard, A. Rizzi, R. Rossin, D. Schäfer, C. Schnaible, J.-F. Schulte, A. Spiezia, G. Tansella, Th. Tomei, C. Vernieri, Q. Wang, Y. Wang, S. Wiedenbeck, Z. Xu, Y.C. Yang, H.D. Yoo, S.-A. E. Yu, M. Zanetti, A. Zucchetta, **Combination of Diboson searches with 2016 data**, CMS AN-2019/055.
 * G. Abbiendi, I. Bachiller, C. Battilana, S.S. Chhibra, B. DeLaCruz, F. Errico, A. Escalante, A. Florent, O. Gonzalez, H.D. Yoo, S. Kaur, A. Lanyov, M.S. Oh, F. Primavera, B. Radburn-Smith, R. Radogna, C. Schnaible, J.-F. Schulte, J. Sturdy, P. Traczyk, D. Trocino, S. Wuyckens, H.D Yoo, **Performance of high-pt muons collected with CMS at √s=13 TeV during proton-proton collisions**, CMS AN-2018/008.
 * B. Clerbaux, D. Cockerill, G. Daskalakis, Sh. Elgammal, W. Fang, X. Gao, R. Goldouzian, S. Harper, A.K. Kalsi, Ph. Mine, E. Olaiya, D. Petyt, J.-F. Schulte, C. Shepherd-Themistocleous, **Search for high-mass resonances in the di-electron final state with 2017 data**, CMS AN-2018/021.
-
-
+* J.-F. Schulte, N. Neumeister, **Interpretations of the Z'→ ll search in different physics models**, CMS AN–2017/211.
+* S. Folgueras, B. Mahakud, N. Neumeister, J.-F. Schulte, **HLT muon reconstruction using iterative tracking**, CMS AN–2017/185.
+* N. Neumeister, **W and Z inclusive and differential cross sections at CMS**, CMS CR–2016/359.
+* N. Neumeister, S. Folgueras, J.-F. Schulte, **Statistical Analysis for a Search for a Narrow Resonance**, CMS AN–2016/307.
+* N. Neumeister, G. Abbiendi, A. Alfonsi, D. Bourilkov, S. Chhibra, R. Cousins, N. De Filippis, S. Elgammal, F. Errico, A. Florent, S. Folgueras, A. Lanyov, K.P Lee, F. Primavera, B. Radburn-Smith, R. Radogna, C. Schnaible, J.-F. Schulte, J. Sturdy, G. Tansella, H.D. Yoo, **Search for High-Mass Resonances Decaying to Muon Pairs in pp Collisions at &radic;s = 13 TeV with the full 2016 data set of 38 fb and combination with 2015 result**, CMS AN–2016/391.
+* N. Neumeister, G. Abbiendi, A. Alfonsi, D. Bourilkov, J.E. Chaves, S.S. Chhibra, R. Cousins, N. De.Filippis, S. Elgammal, F. Errico, A. Florent, S. Folgueras, A. Lanyov, K.P. Lee, S. Marcellini, K.W. Nam, N. Neumeister, F. Primavera, B. Radburn-Smith, R. Radogna, C. Schnaible, J.-F. Schulte, P. Spagnolo, J. Tucker, H.D. Yoo, **Search for High-Mass Resonances Decaying to Muon Pairs in pp Collisions at &radic;s = 13 TeV with 2016 data**, CMS AN–2016/197.
+* N. Neumeister, G. Abbiendi, G. Bagliesi, D. Bourilkov, R. Castello, J.E. Chaves, S.S. Chhibra, B. Clerbaux, D. Cockerill, A. Colaleo, R. Cousins, G. Daskalakis, N. De Filippis, Sh. Elgammal, A. Escalante del Valle, G. Fasanella, W. Fang, A. Florent, V. Giakoumopoulou, R. Goldouzian, S. Harper, P. Karchin, A. Lanyov, K.A Larson, K.P. Lee, S. Marcellini, Ph. Min´e, E. Olaiya, K.W. Nam, A. Perrotta, D. Petyt, F. Primavera, B. Radburn-Smith, R. Radogna, A. Randle-Conde, T. Reis, S. Roy Chowdhury, G. Singh, C. Schnaible, C. Shepherd-Themistocleous, P. Spagnolo, J. Sturdy, L. Thomas, P. Traczyk, J. Tucker, V. Valuev, P. Vanlaer, H.D. Yoo, S. Zaleski, **Combination of the 8 TeV and 13 TeV Z' to Dilepton Limits**, CMS AN–2016/138.
+* N. Neumeister, K. Larson, B. Radburn-Smith, **Search for High-Mass Resonances Decaying to Muon Pairs in pp Collisions at &radic;s = 13 TeV**, CMS AN–2015/223.
+* N. Neumeister and A. Svyatkovskiy, **Implementation of the 6x6 alignment uncertainty matrix in the CMS alignment and reconstruction software**, CMS AN–2014/277.
+* N. Neumeister and H. Yoo, **Search for Four Lepton Resonances at 8 TeV**, CMS AN–2014/060.
+* D. Bourilkov, A. Juodagalvis, R. Kamalieddin, I. Kravchenko, E. Olaiya, N. Neumeister, S. Stoynev, A. Svyatkovskiy, K. Sung, H.D. Yoo, **Measurement of the differential Drell–Yan cross sections at &radic;s = 8 TeV**, CMS AN–2013/420.
+* N. Neumeister, **Measurement of the Drell–Yan differential cross section in pp collisions at 7 TeV**, CMS CR–2011/140.
+* N. Neumeister, **Search for Heavy Stable Charged Particles in CMS**, CMS CR–2011/043.
+* 
 {% include base_path %}
