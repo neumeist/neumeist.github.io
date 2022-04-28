@@ -206,7 +206,8 @@ Eur. Phys. J. C **6** (1999) 385–401.
 
 * W. Adam, P. Allport, S. Amato, M. Berggren, M. Besancon, A. Galloni, M. Gandelmann, Ph. Gris, B. King,
 J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**,
-CERNOPEN-99-473, Pres. at the 29th International Conference on High-Energy Physics, Vancouver, Canada, 23-29 Jul 1998.  
+CERN OPEN-99-473, Pres. at the 29th International Conference on High-Energy Physics, Vancouver, Canada, 23-29 Jul 1998.
+[Link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjkr8y6kLb3AhXuhf0HHbW_Bi8QFnoECA0QAQ&url=https%3A%2F%2Fcds.cern.ch%2Frecord%2F412403%2Ffiles%2Fopen-99-473.ps.gz&usg=AOvVaw2FPyvFmeBs82INubJhwHbW)
 
 * P. Abreu et al. (DELPHI Collaboration), **Performance of the DELPHI Detector**,
 Nucl. Instr. and Meth. **A 378** (1996) 57–100.  
@@ -235,7 +236,7 @@ Z. Phys. C **60** (1993) 633–642.
 
 * N. Neumeister et al. (UA1-Minimum Bias Collaboration), **Higher Order Bose-Einstein Correlations in p<span style="text-decoration: overline">p</span> Collisions at &radic;s = 630 and 900 GeV**,
 Phys. Lett. B **275** (1992) 186–194.  
-[doi:10.1016/0370-2693(92)90874-4]('https://doi.org/10.1016/0370-2693(92)90874-4')
+[doi:10.1016/0370-2693(92)90874-4](https://doi.org/10.1016/0370-2693(92)90874-4)
 
 ---
 *	ATLAS & CMS Collaboration, **Snowmass White Paper Contribution: Physics with the Phase-2 ATLAS and CMS Detectors**, [CMS PAS FTR-22-001](https://cds.cern.ch/record/2806962?ln=en).
