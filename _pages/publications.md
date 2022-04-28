@@ -314,13 +314,12 @@ Phys. Lett. B **275** (1992) 186–194.
 * N. Neumeister, **Measurement of the Drell–Yan differential cross section in pp collisions at 7 TeV**, CMS CR–2011/140.
 * N. Neumeister, **Search for Heavy Stable Charged Particles in CMS**, CMS CR–2011/043.
 * I. Belotelov, D. Bourilkov, A. Everett, M. Fisher, I. Furic, M. Jindal, A. Kubik, T.N. Kypreos, A. Lanyov, K. Mazumdar, N. Neumeister, M. Schmitt, S. Shmatov, J. Singh, S. Stoynev, A. Svyatkovskiy, H.D. Yoo, **Drell–Yan Differential Cross Section Measurement at 7 TeV in the Muon Channel**, CMS AN–2011/013.
-
-* ,**Search for High-Mass Resonances Decaying to Muon Pairs with 15 pb<sup>-1</sup> of collisions gathered at &radic;s = 7 TeV**, CMS AN–2010/317.
-CMS AN-2010/317
-CMS AN-2010/240
-CMS AN-2010/234
-CMS AN–2010/116
-
+* D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, G.P. Di Giovanni, A. Everett, M. Fisher, S. Fonseca De Souza, I.K. Furic, J. Gartner, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, K. Kotov, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano, J. Piedra Gomez, J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev, and J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with 15 pb<sup>-1</sup> of collisions gathered at &radic;s = 7 TeV**, CMS AN–2010/317.
+* H. Yoo, A. Everett, N. Neumeister, A. Svyatkovskiy, **Identification of background from Cosmic rays and Punch-through**, CMS AN-2010/240.
+* A. Everett, R. Bellan, C. Botta, T. Danielson, Z. Gecse, J. Klukas, D. Miller, N. Neumeister, J. Richman, A. Svyatkovskiy, D. Trocino, J.R. Vlimant, H.D. Yoo, **Muon High-Level Trigger in CMS**,CMS AN–2010/234.
+* A. Everett, N. Neumeister, A. Svyatkovskiy, H.D. Yoo et al., **Performance of CMS muon measurements in pp collisions at &radic;s = 7 TeV**,CMS AN–2010/211.
+* N. Adam, N. Akchurin, J. Alcaraz Maestre, N. Amapane, P. del Arbol, R. Arcidiacono, S. Baffioni, M. Bachtis, D. Bandurin, J. Bendavid, S. Beri, J. Berger, J. Berryhill, A. Bodek, C. Botta, S. Bolognesi, M. Le Bourgeois, C. Broutin, J. Butler, A. Calderon, R. Castello, C. Charlot, G. Di Giovanni, M. Chen, Y. Chung, M. Cepeda, A. de Cosa, J. Damgov, B. De La Cruz, B. Dahmes, G. Daskalakis, C. Dıez Pardos, M. Dittmar, T. Dorigo14, A. Drozdetskiy, J. Duarte, J. Efron, J. Eugster, D. Evans, P. Everaerts, A. Everett, F. Fabozzi, J. Fernandez, L. Freton, D. Futyan, I. Furic, J. Gartner, J. Gomez, G. Gomez-Ceballos, D. Green, K. Grogg, M. Grothe, M. de Gruttola, K. Hahn, V. Halyo, J. Han, P. Harris, J. Hays, N. Heracleous, J.M. Hernandez, O. Hindrichs, W. Hintz, A. Ivanov, K. Jeong, M. Jindal, M.I. Josa, C. Jorda, P. Kalavase, S. Kesisoglou, S. Khalil, P. Killewald, P. Klabbers, M. Klute, A. Korytov, I. Kravchenko, A. Kubik, C. Lazaridis, S. Lee, D. Lelas, P. Lenzi, J. Leonard, C. Leonidopoulos, L. Lista, L. Lloret, D. Majumder, M. Makouski, M. Malberti, C. Marchica, E. Di Marco, C. Mariotti, M. de Mattia, K. Matchev, K. Mazumdar, P. Meridiani, K. Mishra, G. Mitselmakher, S. Nahn, R. Nandi, N. Neumeister, C. Ochando, P. Paganini, R. Paramatti, C. Paus, D. Piparo, I. Puljak, V. Rekovic, R. Rodrigues, Y. Roh, N. Rompotis, C. Rovelli, D. Sabes, A. Saha, L. Saini, R. Salerno, A. Sancheiz, J. Santaolalla, A. Savin, A. Sharma, C. Seez, A. Schorlemmer, J. Singh, M. Soares, L. Spiegel, S. Stoynev, K. Sung, A. Svyatkovskiy, T. Tabarelli de Fatis, P. Tan, S. Tkaczyk, D. Trocino, L. Uplegger, I. Vila, R. Vilar, N. Wardle, D. Wardrope, J.Werner, S. Xie, F. Yang, E. Yazgan, H.D. Yoo, A. Zabi, and M. Zeise, **Measurements of Inclusive W and Z Cross Sections in pp Collisions at &radic;s = 7 TeV**, CMS AN–2010/116.
+*
 CMS AN-2009/190
 CMS AN-2009/151
 CMS AN-2009/150
@@ -345,7 +344,7 @@ CMS AN-2008/097
 * N. Neumeister, U. Gasparini, S. Lacaprara, A. Fanfani, H. Rick, A. Vitelli, **Monte Carlo Simulation for High Level Trigger Studies in Single and Di-Muon Topologies**, CMS IN/2000–053.
 * G.M. Dallavalle, N. Neumeister, C.-E.Wulz, B.P. Padley, G. Wrochna, J. Hauser, D. Acosta, **Issues Related to the Separation of the Barrel and Endcap Muon Trigger Track-Finders**, CMS IN/1999–015.
 * G.M. Dallavalle, M. Fierro, V. Genchev, C. Grandi, N. Neumeister, P. Porth, H. Rohringer, **A simplified Track Assembler I/O for the Muon Trigger Track Finder**, CMS NOTE/1998–042.
-* N. Neumeister, **Search for scalar top quarks in the $$\tilde{t} \to b \ell \tilde{\nu}$$ stop→bl𝞶 channel at &radic;s = 183 GeV**, DELPHI–Note 98–158.
+* N. Neumeister, **Search for scalar top quarks in the $$\tilde{t} \to b \ell \tilde{\nu}$$ channel at &radic;s = 183 GeV**, DELPHI–Note 98–158.
 * W. Adam, P. Allport, S. Amato, M. Berggren, M. Besancon, A. Galloni, M. Gandelmann, Ph. Gris, B. King, J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**, DELPHI–Note 98–92.
 * N. Neumeister, P. Porth, H. Rohringer, **Simulation of the Global Muon Trigger**, CMS NOTE/1997–023.
 * N. Neumeister, A. Taurok, C.-E. Wulz, F. Szoncso, **CMS Global Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS NOTE/1997–009.
