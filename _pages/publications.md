@@ -207,7 +207,7 @@ Eur. Phys. J. C **6** (1999) 385–401.
 * W. Adam, P. Allport, S. Amato, M. Berggren, M. Besancon, A. Galloni, M. Gandelmann, Ph. Gris, B. King,
 J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**,
 Pres. at the 29th International Conference on High-Energy Physics, Vancouver, Canada, 23-29 Jul 1998.  
-[ERN OPEN-99-473](https://cds.cern.ch/record/412403?ln=en)
+[CERN-OPEN-99-473](https://cds.cern.ch/record/412403?ln=en)
 
 * P. Abreu et al. (DELPHI Collaboration), **Performance of the DELPHI Detector**,
 Nucl. Instr. and Meth. **A 378** (1996) 57–100.  
