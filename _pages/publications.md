@@ -243,13 +243,13 @@ Phys. Lett. B **275** (1992) 186–194.
 *	CMS Collaboration, **Sensitivity projections for a search for new phenomena at high dilepton mass for the LHC Run 3 and the HL-LHC**, [CMS PAS FTR-21-005](https://cds.cern.ch/record/2804005?ln=en).
 *	CMS Collaboration, **Muon Reconstruction and Identification Performance with Run-2 data**, CMS DP-2020-040.
 *	CMS Collaboration, **Measurement of Higgs boson decay to a pair of muons in proton-proton collisions at &radic;s = 13 TeV**, CMS PAS HIG-19-006.
-*	CMS Collaboration, **Search for a narrow resonance in high-mass dilepton final states in proton-proton collisions using 140 fb<sup>−1</sup> of data at &radic;s = 13 TeV**, CMS PAS-EXO-19-019.
-*	CMS Collaboration, **Tracking performance in the CMS High Level trigger**, CMS DP-2018-083.
-*	CMS Collaboration, **Search for electroweak production of charginos and neutralinos at 13 TeV**, CMS-PAS-SUS-17-004.
-*	CMS Collaboration, **Search for electroweak production of charginos and neutralinos in multilepton final states in proton-proton collisions at &radic;s=13 TeV**, CMS-PAS-SUS-16-039.
-*	CMS Collaboration, **Search for a high-mass resonance decaying into a dilepton final state in 13 fb<sup>−1</sup> of pp collisions at &radic;s=13 TeV**, CMS-PAS-EXO-16-031.
-*	CMS Collaboration, **Search for electroweak SUSY production in multilepton final states in 12.9 fb<sup>−1</sup> of pp collision data at &radic;s = 13 TeV**, CMS-PAS-SUS-16-024.
-* CMS Collaboration, **Search for a Narrow Resonance Produced in 13 TeV pp Collisions Decaying to Electron Pair or Muon Pair Final States**, CMS PAS-EXO-15-005.
+*	CMS Collaboration, **Search for a narrow resonance in high-mass dilepton final states in proton-proton collisions using 140 fb<sup>−1</sup> of data at &radic;s = 13 TeV**, [CMS-PAS-EXO-19-019](https://cds.cern.ch/record/2684757?ln=en).
+*	CMS Collaboration, **Tracking performance in the CMS High Level trigger**, [CMS DP-2018-038](https://cds.cern.ch/record/2629370?ln=en).
+*	CMS Collaboration, **Search for electroweak production of charginos and neutralinos at 13 TeV**, [CMS-PAS-SUS-17-004](https://cds.cern.ch/record/2273907?ln=en).
+*	CMS Collaboration, **Search for electroweak production of charginos and neutralinos in multilepton final states in proton-proton collisions at &radic;s=13 TeV**, [CMS-PAS-SUS-16-039](https://cds.cern.ch/record/2256434?ln=en).
+*	CMS Collaboration, **Search for a high-mass resonance decaying into a dilepton final state in 13 fb<sup>−1</sup> of pp collisions at &radic;s=13 TeV**, [CMS-PAS-EXO-16-031](https://cds.cern.ch/record/2205764?ln=en).
+*	CMS Collaboration, **Search for electroweak SUSY production in multilepton final states in 12.9 fb<sup>−1</sup> of pp collision data at &radic;s = 13 TeV**, [CMS-PAS-SUS-16-024](https://cds.cern.ch/record/2205168?ln=en).
+* CMS Collaboration, **Search for a Narrow Resonance Produced in 13 TeV pp Collisions Decaying to Electron Pair or Muon Pair Final States**, CMS [PAS-EXO-15-005](https://cds.cern.ch/record/2114855?ln=en).
 *	CMS Collaboration, **Search for leptophobic Z' decaying into four leptons in the final state at &radic;s = 8 TeV**, [CMS PAS–EXO-14-006](https://cds.cern.ch/record/2138344?ln=en).
 *	CMS collaboration, **Measurements of the differential and double-differential Drell–Yan cross sections in proton-proton collisions at 8 TeV**, [CMS PAS-SMP-14-003](https://cds.cern.ch/record/1728320?ln=en).
 *	CMS Collaboration, **Search for Resonances in the Dilepton Mass Distribution in pp Collisions at &radic;s = 8 TeV**, [CMS PAS–EXO-12-061](https://cds.cern.ch/record/1519132?ln=en).
