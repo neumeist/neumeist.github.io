@@ -345,7 +345,7 @@ CMS AN-2008/097
 * N. Neumeister, U. Gasparini, S. Lacaprara, A. Fanfani, H. Rick, A. Vitelli, **Monte Carlo Simulation for High Level Trigger Studies in Single and Di-Muon Topologies**, CMS IN/2000–053.
 * G.M. Dallavalle, N. Neumeister, C.-E.Wulz, B.P. Padley, G. Wrochna, J. Hauser, D. Acosta, **Issues Related to the Separation of the Barrel and Endcap Muon Trigger Track-Finders**, CMS IN/1999–015.
 * G.M. Dallavalle, M. Fierro, V. Genchev, C. Grandi, N. Neumeister, P. Porth, H. Rohringer, **A simplified Track Assembler I/O for the Muon Trigger Track Finder**, CMS NOTE/1998–042.
-* N. Neumeister, **Search for scalar top quarks in the $\tilde{t} \to b \ell \tilde{\nu}$ stop→bl𝞶 channel at &radic;s = 183 GeV**, DELPHI–Note 98–158.
+* N. Neumeister, **Search for scalar top quarks in the $$\tilde{t} \to b \ell \tilde{\nu}$$ stop→bl𝞶 channel at &radic;s = 183 GeV**, DELPHI–Note 98–158.
 * W. Adam, P. Allport, S. Amato, M. Berggren, M. Besancon, A. Galloni, M. Gandelmann, Ph. Gris, B. King, J.H. Lopes, N. Neumeister, R. Pain and Ph. Schwemling, **Search for Sfermions at &radic;s = 130 to 183 GeV**, DELPHI–Note 98–92.
 * N. Neumeister, P. Porth, H. Rohringer, **Simulation of the Global Muon Trigger**, CMS NOTE/1997–023.
 * N. Neumeister, A. Taurok, C.-E. Wulz, F. Szoncso, **CMS Global Trigger – Preliminary specifications of the baseline trigger algorithms**, CMS NOTE/1997–009.
