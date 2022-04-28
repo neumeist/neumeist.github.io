@@ -35,6 +35,7 @@ author_profile: true
 * Kurt Larson, 2014 – 2016 (Industry)
 * Lingshan Xu, 2011– 2012 (Industry)
 * Michael Meier, 2009 – 2010 (Industry)
+* Alessandro Grelli, 2008 - 2009 (Utrecht University, Netherlands)
 * Edwin Antillon, 2007 – 2009 (Industry)
 * Fengping Hu, 2007 – 2013 (University of North Carolina)
 * Haiying Xu, 2006 – 2011 (NCAR)
