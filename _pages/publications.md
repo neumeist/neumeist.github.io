@@ -61,7 +61,7 @@ Phys. Lett. B **773** (2017) 563–584.
 * N. Neumeister, **W and Z inclusive and differential cross sections at CMS**, PoS ICHEP2016 (2016) 612.
 [doi:10.22323/1.282.0612](https://doi.org/10.22323/1.282.0612)
 
-* V. Khachatryan et al. [CMS Collaboration], **Search for supersymmetry with multiple charged leptons in protonproton collisions at &radic;s = 13 TeV**,
+* V. Khachatryan et al. [CMS Collaboration], **Search for supersymmetry with multiple charged leptons in proton-proton collisions at &radic;s = 13 TeV**,
 Eur. Phys. J. C **77** (2017) 635.  
 [doi:10.1140/epjc/s10052-017-5182-1](https://doi.org/10.1140/epjc/s10052-017-5182-1)
 
@@ -265,10 +265,10 @@ Phys. Lett. B **275** (1992) 186–194.
 * CMS Collaboration, **Measurement of the charge asymmetry of atmospheric muons with the CMS detector**, [CMS PAS-MUO-10-001](https://cds.cern.ch/record/1259232?ln=en).
 
 ---
-* D. Kondratyev, A. Purohit, N. Neumeister, **Extrapolated measurement precision for Higgs boson properties in the H→μμ decay channel at the HL-LHC for Snowmass 2022**, CMS AN-2022/006.
-* N. Neumeister, J.-F, Schulte, M. Yang, **Sensitivity extrapolation for the Run 3 and HL-LHC data taking periods for the high mass dilepton search**, CMS AN-2021/188.
-* D. Kondratyev, A. Purohit, J.-F. Schulte, N. Neumeister, **Optimization of the outside-in Level-3 muon reconstruction CMS Muon High Level Trigger**, CMS AN-2021/156.
-* M. Yang, J.-F. Schulte, N. Neumeister, **Search for Lepton Flavor Universality violation in high-mass dilepton final states with the Run 2 dataset**, CMS AN-2021/153.
+* D. Kondratyev, A. Purohit, N. Neumeister, **Extrapolated measurement precision for Higgs boson properties in the H→μμ decay channel at the HL-LHC for Snowmass 2022**, CMS AN-2022/006.  
+* N. Neumeister, J.-F, Schulte, M. Yang, **Sensitivity extrapolation for the Run 3 and HL-LHC data taking periods for the high mass dilepton search**, CMS AN-2021/188.  
+* D. Kondratyev, A. Purohit, J.-F. Schulte, N. Neumeister, **Optimization of the outside-in Level-3 muon reconstruction CMS Muon High Level Trigger**, CMS AN-2021/156.  
+* M. Yang, J.-F. Schulte, N. Neumeister, **Search for Lepton Flavor Universality violation in high-mass dilepton final states with the Run 2 dataset**, CMS AN-2021/153.  
 * J.-F. Schulte, **Searches for new physics in CMS in events with leptons and photons in the final state**, CMS CR-2021/127.
 * D. Kovalskyi, J.-F. Schulte, **Measurement of prefiring in the L1 muon trigger in Run 2**, CMS AN-2021/086.
 * D. Kondratyev, S. Piperov, N. Neumeister, **Implementation and benchmarking of a VBF H→μμ analysis framework using an interactive, parallel Analysis Facility environment**, CMS AN-2020/240.
@@ -306,7 +306,7 @@ Phys. Lett. B **275** (1992) 186–194.
 * J. Brooke, S. Cooper, B. Dahmes, S. Harper, U. Heintz, K. Hoepfner, M. Narain, L. Quertenmont, and H.D. Yoo, **Exotica 14 TeV projections for Snowmass**, CMS AN-2013/221.
 * S. Harper, N. Neumeister, and H.D. Yoo, **Z' to ee/𝞵𝞵 discovery projections at 14 TeV**, CMS AN-2013/196.
 * G. Alverson, I. Belotelov, D. Bourilkov, R. Cousins, I.K. Furic, M. Hohlmann, H. Kalakhety, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, M. Savina, S. Schmitz, S. Shmatov, A. SvyatkovskiyG, P. Traczyk, J. Tucker and V. Valuev, **Search for High Mass Resonances Decaying to Muon Pairs at &radic;s = 8 TeV**, CMS AN–2012/422.
-* I. Belotelov, A. Bodek, D. Bourilkov, A. Everett, I. Furic, J. Han, G.N. Kim, A. Kubik, T.N. Kypreos, A. Lanyov, S.E. Lee, D.H. Miller, N. Neumeister, M. Schmitt, S. Shmatov, D. Silvers, S. Stoynev, A. Svyatkovskiy and H.D. Yoo, **Measurement of the differential and double differential Drell–Yan cross section in protonproton collisions at &radic;s = 7 TeV in the dimuon channel**, CMS AN–2012/063.
+* I. Belotelov, A. Bodek, D. Bourilkov, A. Everett, I. Furic, J. Han, G.N. Kim, A. Kubik, T.N. Kypreos, A. Lanyov, S.E. Lee, D.H. Miller, N. Neumeister, M. Schmitt, S. Shmatov, D. Silvers, S. Stoynev, A. Svyatkovskiy and H.D. Yoo, **Measurement of the differential and double differential Drell–Yan cross section in proton proton collisions at &radic;s = 7 TeV in the dimuon channel**, CMS AN–2012/063.
 * D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, A. Everett, S. Fonseca De Souza, I.K. Furic, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano, J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev and J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with Collisions Gathered at &radic;s = 7 TeV with 2011 Data**, CMS AN–2011/473.
 * D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, G.P. Di Giovanni, A. Everett, M. Fisher, S. Fonseca De Souza, I.K. Furic, J. Gartner, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, K. Kotov, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano, J. Piedra Gomez, J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev, J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with Collisions Gathered at &radic;s = 7 TeV**, CMS AN–2011/472.
 * D. Acosta, G. Alverson, S. Basegmez, I. Belotelov, D. Bourilkov, G. Bruno, R. Cousins, G.P. Di Giovanni, A. Everett, M. Fisher, S. Fonseca De Souza, I.K. Furic, J. Gartner, S. Guragain, U. Heintz, M. Hohlmann, H. Kalakhety, K. Kotov, G. Kukartsev, T.N. Kypreos, A. Lanyov, M. Narain, N. Neumeister, D. Pagano, J. Piedra Gomez, J. Pivarski, M. Savina, S. Senkin, S. Shmatov, A. Svyatkovskiy, P. Traczyk, J. Tucker, S. Valuev, J. Zhang, **Search for High-Mass Resonances Decaying to Muon Pairs with Collisions Gathered at &radic;s = 7 TeV**, CMS AN-2011/278.
