@@ -1,5 +1,5 @@
 ---
-title: "First collions reconstructed with GPUs at CMS"
+title: "First collisions reconstructed with GPUs at CMS"
 date: 2021-12-07
 excerpt: "<br/><img src='/images/GPU_2021.png' width='750'>"
 collection: news
