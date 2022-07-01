@@ -22,6 +22,7 @@ author_profile: true
 * [Statistics](https://statisticsbyjim.com)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* [Machine Learning ifor Particle Physics](https://github.com/iml-wg/HEPML-LivingReview)
 
 ## Technical Information
 * [Getting a CERN computer account](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount)
