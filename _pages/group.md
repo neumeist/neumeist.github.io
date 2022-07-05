@@ -9,7 +9,7 @@ author_profile: true
 
 
 * Norbert Neumeister (PI)
-* Jan-Frederick Schulte (postdoc)
+* Amandeep Kaur (postdoc)
 * Arnab Purohit (postdoc)
 * Dmitry Kondratyev (graduate student)
 * Minxi Yang (graduate student)
@@ -19,6 +19,7 @@ author_profile: true
 
 ## Former Members
 
+* Jan-Frederick Schulte, 2016 - 2022 (Purdue University)
 * Bibhuprasad Mahakud, 2018 – 2019 (Indian Institute of Technology Bhubaneswar, India)
 * Manoj Jha, 2012 – 2016 (Equifax Inc.)
 * Santiago Folgueras, 2016 – 2017 (University of Oviedo, Spain)
