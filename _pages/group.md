@@ -7,7 +7,6 @@ author_profile: true
 
 ## Current Members
 
-
 * Norbert Neumeister (PI)
 * Amandeep Kaur (postdoc)
 * Arnab Purohit (postdoc)
@@ -19,6 +18,7 @@ author_profile: true
 
 ## Former Members
 
+* Minxi Yang, Ph.D. 2022 (deceased)
 * Jan-Frederick Schulte, 2016 - 2022 (Purdue University)
 * Bibhuprasad Mahakud, 2018 – 2019 (Indian Institute of Technology Bhubaneswar, India)
 * Manoj Jha, 2012 – 2016 (Equifax Inc.)
@@ -41,9 +41,9 @@ author_profile: true
 * Fengping Hu, 2007 – 2013 (University of North Carolina)
 * Haiying Xu, 2006 – 2011 (NCAR)
 * Majid Arabgol, 2013 – 2019 (Microsoft Corporation)
-* Haotian Zhou
-* Stylianos Gregoriou
-* Fan Zhang
+* Haotian Zhou, 2018 - 2020
+* Stylianos Gregoriou, 2020 - 2021
+* Fan Zhang, 2018 - 2019
 
 ## Open Positions
 If you are interested to join the group as a [postdoc](https://inspirehep.net/jobs/1955418) or graduate student please contact me by email.
