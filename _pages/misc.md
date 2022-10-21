@@ -12,6 +12,7 @@ author_profile: true
 * [Purdue Confluence](https://wiki.itap.purdue.edu/display/CMSPhysics/Purdue+CMS+Physics) 
 
 ## Resources for Students
+* [The Particle Adventure](https://particleadventure.org)
 * [CERN Summer Student Lectures](https://indico.cern.ch/category/345/) 
 * [From Raw Data to Physics 1](https://indico.cern.ch/event/716505/attachments/1669162/2699144/SummerStudentLecture_FromRawDataToPhysics_Lecture1_2018.pdf)
 * [From Raw Data to Physics 2](https://indico.cern.ch/event/716506/attachments/1681035/2702362/SummerStudentLecture_FromRawDataToPhysics_Lecture2_2018.pdf)
