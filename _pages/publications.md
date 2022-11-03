@@ -269,6 +269,7 @@ Phys. Lett. B **275** (1992) 186–194.
 * CMS Collaboration, **Measurement of the charge asymmetry of atmospheric muons with the CMS detector**, [CMS PAS-MUO-10-001](https://cds.cern.ch/record/1259232?ln=en).
 
 ---
+* D. Kondratyev, **Studies to improve the MC template-based analysis strategy of the H→μμ search in preparation for Run 3**, CMS AN-2022/145.  
 * S. Jeon, M. Oh, M. Klute, D. Bourilkov, N. Neumeister, M. Liu, J.-F. Schulte, M. Yang, A. Kaur, S. Elgammel, M. Maggi, F. Errico, K. Liyanage, **Search for nonresonant new physics in high-mass dilepton events in association with b-tagged jets**, CMS AN-2022/058.  
 * D. Kondratyev, A. Purohit, N. Neumeister, **Extrapolated measurement precision for Higgs boson properties in the H→μμ decay channel at the HL-LHC for Snowmass 2022**, CMS AN-2022/006.  
 * N. Neumeister, J.-F, Schulte, M. Yang, **Sensitivity extrapolation for the Run 3 and HL-LHC data taking periods for the high mass dilepton search**, CMS AN-2021/188.  
