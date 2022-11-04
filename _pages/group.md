@@ -46,6 +46,6 @@ author_profile: true
 * Fan Zhang, 2018 - 2019
 
 ## Open Positions
-If you are interested to join the group as a [postdoc](https://inspirehep.net/jobs/1955418) or graduate student please contact me by email.
+If you are interested to join the group as a [postdoc](https://inspirehep.net/jobs/2174859) or graduate student please contact me by email.
 
 {% include base_path %}
