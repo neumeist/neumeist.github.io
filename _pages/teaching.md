@@ -13,7 +13,7 @@ author_profile: true
   [Course details](http://physics.purdue.edu/academic-programs/courses/course_catalog_details.php?c=phys149)
 
 - PHYS 220: **General Physics**  
-  Fall 2006, Fall 2007, Fall 2008, Spring 2017, Fall 2019, Fall 2020, Fall 2021, Fall 2022, Spring 2023
+  Fall 2006, Fall 2007, Fall 2008, Spring 2017, Fall 2019, Fall 2020, Fall 2021, Fall 2022, Spring 2023  
   [Course details](http://physics.purdue.edu/academic-programs/courses/course_detail.php?c=phys220)  
   [Syllabus](/files/Syllabus_220.pdf)  
 
@@ -46,7 +46,7 @@ author_profile: true
   [Syllabus](/files/Syllabus_564.pdf)  
 
 - PHYS 565: **Introduction to Elementary Particle Physics II**  
-  Spring 2016, Spring 2024, Spring 2025, Spring 2026
+  Spring 2016, Spring 2024, Spring 2025, Spring 2026  
   [Course details](http://physics.purdue.edu/academic-programs/courses/course_catalog_details.php?c=phys565)  
   [Syllabus](/files/Syllabus_565.pdf)  
 
