@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Presentations given by members of my group:
-
+* Norbert Neumeister, **Searches for physics beyond SM at the LHC**, 42nd International Symposium on Physics in Collision (PIC 2023), Arica, Chile, 10--14 Oct, 2023.
 * Norbert Neumeister, **Search for L violating and lepton flavor violating processes at the LHC**, BLV2022: 2022 International Workshop on Baryon and Lepton Number Violation, 5-8 Sep 2022, ULB, Brussels, Belgium.
 * Amandeep Kaur, **Measurement of Higgs boson production in association with a W or Z boson using the full Run 2 dataset at CMS**, AEPSHEP2022: 2022 Asia-Europe-Pacific School of High-Energy Physics, 5-18 Oct 2022, Pyeongchang, Korea.
 * Arnab Purohit, **Recent HL-LHC projections from CMS**, ICHEP2022: 41st International Conference on High Energy Physics, 6-13 Jul 2022, Bologna, Italy.
