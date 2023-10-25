@@ -22,6 +22,7 @@ author_profile: true
 * [CMS Muon Tutorial 2](https://github.com/neumeist/MuonHATSatLPC2020)
 * [Statistics](https://statisticsbyjim.com)
 * [Fitting](http://www.phys.ufl.edu/~avery/fitting.html)
+* [C++ Tutorial](https://sponce.web.cern.ch/sponce/C++Course/C++Course.pdf)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * [Machine Learning for Particle Physics](https://github.com/iml-wg/HEPML-LivingReview)
