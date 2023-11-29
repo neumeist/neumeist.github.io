@@ -269,7 +269,7 @@ Phys. Lett. B **275** (1992) 186–194.
 * CMS Collaboration, **Measurement of the charge asymmetry of atmospheric muons with the CMS detector**, [CMS PAS-MUO-10-001](https://cds.cern.ch/record/1259232?ln=en).
 
 ---
-* A. Purohit, N. Neumeister, **Search for Higgs boson decays into muons using the Run 2 ultra-legacy datasets**, CMS AN-2023/017.  
+* V. Scheurer, A. Purohit, N. Neumeister, **Search for Higgs boson decays into muons using the Run 2 ultra-legacy datasets**, CMS AN-2023/017.  
 * D. Kondratyev, **Studies to improve the MC template-based analysis strategy of the H→μμ search in preparation for Run 3**, CMS AN-2022/145.  
 * S. Jeon, M. Oh, M. Klute, D. Bourilkov, N. Neumeister, M. Liu, J.-F. Schulte, M. Yang, A. Kaur, S. Elgammel, M. Maggi, F. Errico, K. Liyanage, **Search for nonresonant new physics in high-mass dilepton events in association with b-tagged jets**, CMS AN-2022/058.  
 * D. Kondratyev, A. Purohit, N. Neumeister, **Extrapolated measurement precision for Higgs boson properties in the H→μμ decay channel at the HL-LHC for Snowmass 2022**, CMS AN-2022/006.  
