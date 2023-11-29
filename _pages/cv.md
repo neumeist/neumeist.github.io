@@ -88,10 +88,8 @@ Physics Technical Design Report.
 Responsible for coordinating all reconstruction software development within CMS and organizing software
 releases.
 * Member and chair of various CMS Analysis Review Committees
-* Chair of the Organization Committee for the US CMS Computing workshop at Purdue University (April 11–12,
-2008)
-* Chair of the Organization Committee for the CMS Endcap Muon workshop at Purdue University (October 6–7,
-2006)
+* Chair of the Organization Committee for the US CMS Computing workshop at Purdue University (April 11–12, 2008)
+* Chair of the Organization Committee for the CMS Endcap Muon workshop at Purdue University (October 6–7, 2006)
 * Member of the CMS Physics Reconstruction and Selection editorial board (2004 – 2006)
 * Worldwide LHC Computing Grid (WLCG) collaboration board member (2006 – 2011)
 * Frequent reviewer of Nuclear Instruments and Methods in Physics Research
@@ -101,6 +99,7 @@ releases.
 * Reviewer of U.S. Department of Energy proposals
 * Reviewer for the Portuguese Funding agency (FCT)
 * Chair of the session on New Phenomena Physics at conference Moriond/QCD 2018
+* Chair of the session on LHC Physics at the conference Phyiscs in Collision 2023
 
 Department:
 * Council of Department of Physics and Astronomy, Purdue University (2015 – present)
