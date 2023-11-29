@@ -76,15 +76,15 @@ Professional Service
 * Member of the CMS Thesis Award Committee (2018 – present)
 * LPC Management Board (2019 – 2020)
 * Co-convener of the LPC Run2 Discussion group on Leptons and Trigger (2017 – 2020)
-* Co-convener of the CMS Muon Physics Object group (2007): 80 people
+* Co-convener of the CMS Muon Physics Object group (2007): ~80 people
 Responsible for organizing and providing intellectual leadership for the development of muon reconstruction
 and identification strategies across all sub-detector systems (muon detectors, electromagnetic and hadronic
 calorimeter, silicon tracker) in preparation for physics with muons at the LHC.
-* Co-convener of the CMS Muon Physics Reconstruction and Selection group (2005 – 2006): 100 people
+* Co-convener of the CMS Muon Physics Reconstruction and Selection group (2005 – 2006): ~100 people
 Responsible for organizing the detector simulation, muon reconstruction, online trigger strategies, and offline
 analyses in preparation for physics with muons at the LHC. Editor of muon chapter of Volume I of the CMS
 Physics Technical Design Report.
-* Co-convener of the CMS reconstruction software project (2004 – 2005): 150 people
+* Co-convener of the CMS reconstruction software project (2004 – 2005): ~150 people
 Responsible for coordinating all reconstruction software development within CMS and organizing software
 releases.
 * Member and chair of various CMS Analysis Review Committees
