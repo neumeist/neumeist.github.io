@@ -10,6 +10,7 @@ author_profile: true
 * Norbert Neumeister (PI)
 * Amandeep Kaur (postdoc)
 * Valerie Scheurer (postdoc)
+* Hyeon Seo Yun (graduate student)
 * Stefan Piperov (scientific application analyst)
 * Dmitry Kondratyev (research software engineer)
 * Nick Smith (research solutions engineer)
