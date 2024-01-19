@@ -99,7 +99,7 @@ releases.
 * Reviewer of U.S. Department of Energy proposals
 * Reviewer for the Portuguese Funding agency (FCT)
 * Chair of the session on New Phenomena Physics at conference Moriond/QCD 2018
-* Chair of the session on LHC Physics at the conference Phyiscs in Collision 2023
+* Chair of the session on LHC Physics at the conference Physics in Collision 2023
 
 Department:
 * Council of Department of Physics and Astronomy, Purdue University (2015 – present)
