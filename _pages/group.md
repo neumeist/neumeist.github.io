@@ -9,13 +9,13 @@ author_profile: true
 
 * Norbert Neumeister (PI)
 * Amandeep Kaur (postdoc)
-* Valerie Scheurer (postdoc)
 * Hyeon Seo Yun (graduate student)
 * Stefan Piperov (scientific application analyst)
 * Dmitry Kondratyev (research software engineer)
 * Nick Smith (research solutions engineer)
 
 ## Former Members
+* Valerie Scheurer, 2023 - 2024
 * Dmitry Kondratyev, Ph.D. 2022 (Purdue University)
 * Minxi Yang, Ph.D. 2022 (deceased)
 * Arnab Purohit, 2021 - 2023
