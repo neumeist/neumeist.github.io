@@ -7,6 +7,9 @@ author_profile: true
 The complete list of my publications can be found at [INSPIRE HEP](http://inspirehep.net/search?ln=en&p=find+author+neumeister%2C+n&of=hb&action search=Search). You can also find my articles on my <a href="https://scholar.google.com/citations?user=htgqRewAAAAJ&hl=en">Google Scholar</a> profile.
 Here is a list of selected papers that best represent my own work and where my group played a major role:
 
+* A. Sirunyan et al. [CMS Collaboration], **Performance of the CMS high-level trigger during LHC Run 2**, submitted to JINST, 2024,
+  [https://arxiv.org/html/2410.17038v1](https://arxiv.org/html/2410.17038v1).
+  
 * A. Sirunyan et al. [CMS Collaboration], **A portrait of the Higgs boson by the CMS experiment ten years after the discovery**,
 Nature (2022).  
 [doi:10.1038/s41586-022-04892-x](https://doi.org/10.1038/s41586-022-04892-x).
