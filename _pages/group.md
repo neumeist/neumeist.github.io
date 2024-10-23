@@ -8,6 +8,7 @@ author_profile: true
 ## Current Members
 
 * Norbert Neumeister (PI)
+* Ram Krishna Sharma (postdoc)
 * Amandeep Kaur (postdoc)
 * Hyeon Seo Yun (graduate student)
 * Stefan Piperov (scientific application analyst)
