@@ -1,6 +1,6 @@
 ---
 title: "Purdue CMS team named co-recipient of 2025 Breakthrough Prize in Fundamental Physics"
-date: 2024-09-18
+date: 2025-04-08
 excerpt: "<br/><img src='/images/breakthrough2025.jpg' width='750'>"
 collection: news
 ---
