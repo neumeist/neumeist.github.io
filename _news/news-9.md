@@ -11,4 +11,4 @@ Dubbed the "Oscars of Science," the Breakthrough Prizes honor transformative ach
 
 Purdue University, a founding member of the CMS Collaboration, has played a vital role in this achievement. Six faculty members from Purdue’s Department of Physics and Astronomy are currently active in CMS research: Norbert Neumeister, Andreas Jung, Matthew Jones, Mia Liu, Fuqiang Wang, and Wei Xie.
  
-Here is a link to the [Purdue news article](https://www.physics.purdue.edu/news/2025/purdue-cms-team-named-co-recipient-of-2025-breakthrough-prize-in-fundamental-physics.html) is out. 
+Here is a link to the [Purdue news article](https://www.physics.purdue.edu/news/2025/purdue-cms-team-named-co-recipient-of-2025-breakthrough-prize-in-fundamental-physics.html). 
