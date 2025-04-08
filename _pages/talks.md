@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 Presentations given by members of my group:
-* Norbert Neumeister, **Searches for new physics in events with dileptons and b quarks**,  Lake Louise Winter Institute 2025, Lake Louise, Canada, 2 -- 8 Mar, 2025.
+* Ram Krishna Sharma, **Higgs boson properties with ATLAS and CMS**, Mitchell2025: The Mitchell Conference on Collider, Dark Matter, and Neutrino Physics, College Station, Texas, 13-16 May, 2025.
+* Norbert Neumeister, **Searches for new physics in events with dileptons and b quarks**,  Lake Louise Winter Institute 2025, Lake Louise, Canada, 2-8 Mar, 2025.
 * Dmitry Kondratyev, **The Purdue CMS Analysis Facility**, HEPiX Fall 2024 Workshop, 4-8 Nov 2024, University of Oklahoma, Norman, OK.
 * Amandeep Kaur, **Anomaly detection in CMS**, LHCP2024: 12th Large Hadron Collider Physics Conference, 3-7 Jun 2024, Boston, MA.
 * Norbert Neumeister, **Searches for physics beyond SM at the LHC**, 42nd International Symposium on Physics in Collision (PIC 2023), Arica, Chile, 10-14 Oct, 2023.
