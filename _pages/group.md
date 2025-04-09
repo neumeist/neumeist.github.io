@@ -6,16 +6,16 @@ author_profile: true
 ---
 
 ## Current Members
-
 * Norbert Neumeister (PI)
+* Chin Lung Tan (postdoc)
 * Ram Krishna Sharma (postdoc)
-* Amandeep Kaur (postdoc)
 * Hyeon Seo Yun (graduate student)
 * Stefan Piperov (scientific application analyst)
 * Dmitry Kondratyev (research software engineer)
 * Nick Smith (research solutions engineer)
 
 ## Former Members
+* Amandeep Kaur, 2022 - 2025 (Rutgers University)
 * Valerie Scheurer, 2023 - 2024
 * Dmitry Kondratyev, Ph.D. 2022 (Purdue University)
 * Minxi Yang, Ph.D. 2022 (deceased)
