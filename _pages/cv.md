@@ -58,6 +58,7 @@ Awards and Honors
 * CERN research fellowship 1999 – 2001
 * Co-recipient of the Particle Physics Prize of the European Physical Society 2013
    awarded to the CMS collaboration for the discovery of a Higgs boson)
+* Co-recipient of the Breakthrough Prize in Fundamental Physics 2025  
 * LHC Physics Center (LPC) Distinguished Researcher 2017, 2018
 
 Professional Memberships
