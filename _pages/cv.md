@@ -89,9 +89,12 @@ Physics Technical Design Report.
 Responsible for coordinating all reconstruction software development within CMS and organizing software
 releases.
 * Member and chair of various CMS Analysis Review Committees
+* Member of the Organization Committee for the Fast Machine Learning For Science Conference at Purdue University (October 15-18, 2024)
 * Chair of the Organization Committee for the US CMS Computing workshop at Purdue University (April 11–12, 2008)
 * Chair of the Organization Committee for the CMS Endcap Muon workshop at Purdue University (October 6–7, 2006)
 * Member of the CMS Physics Reconstruction and Selection editorial board (2004 – 2006)
+* Member of the Editorial Board (Editor) of International Journal of Modern Physics A (2024 - present)
+* Member of the Editorial Board (Editor) of Modern Physics Letters A (2024 - present)
 * Worldwide LHC Computing Grid (WLCG) collaboration board member (2006 – 2011)
 * Frequent reviewer of Nuclear Instruments and Methods in Physics Research
 * Frequent reviewer of IEEE Transactions on Nuclear Science
@@ -105,11 +108,12 @@ releases.
 Department:
 * Council of Department of Physics and Astronomy, Purdue University (2015 – present)
 * Graduate admissions committee Department of Physics and Astronomy, Purdue University (2007 – present)
-* Graduate recruitment committee (2023 -2024)
+* Graduate recruitment committee (2023 - 2024)
 * Hubert James Lecture committee (2018 – present)
 * Departmental promotion committee (2015 – present)
 * Qualifying exam committee (2013 – 2020)
 * Big Data search committee (2013 – 2015)
+* Chair of the faculty search committee Experimental High Energy Physics (2024)
 * Chair of the faculty search committee Experimental High Energy Physics (2019)
 * Faculty search committee Theoretical High Energy Physics (2018)
 * Faculty search committee Experimental High Energy Physics (2014)
@@ -126,8 +130,8 @@ Department:
 * Strategic Planning Department of Physics and Astronomy (2017, 2018)
 
 College:
-* Purdue College of Science faculty council (2021 – present)
-* Undergraduate Education Policy and Curriculum (2023 - 2024)
+* Purdue College of Science faculty council (2021 – 2024)
+* Undergraduate Education Policy and Curriculum (2023 - 2024, 2024 - 2026)
 * College of Science Promotions Committee (2017 – 2019)
 
 University:
