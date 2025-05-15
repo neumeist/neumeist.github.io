@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Presentations given by members of my group:
+* Hyeon-Seo Yun, **The CMS Higgs to mumu search**, Workshop on physics analysis at the HL-LHC, CERN, 15-16 May, 2025.
 * Ram Krishna Sharma, **Higgs boson properties with ATLAS and CMS**, Mitchell2025: The Mitchell Conference on Collider, Dark Matter, and Neutrino Physics, College Station, Texas, 13-16 May, 2025.
 * Norbert Neumeister, **Searches for new physics in events with dileptons and b quarks**,  Lake Louise Winter Institute 2025, Lake Louise, Canada, 2-8 Mar, 2025.
 * Dmitry Kondratyev, **The Purdue CMS Analysis Facility**, HEPiX Fall 2024 Workshop, 4-8 Nov 2024, University of Oklahoma, Norman, OK.
