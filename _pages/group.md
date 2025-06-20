@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current Members
 * Norbert Neumeister (PI)
-* Chin Lung Tan (postdoc)
+<!--  Chin Lung Tan (postdoc) -->
 * Ram Krishna Sharma (postdoc)
 * Hyeon Seo Yun (graduate student)
 * Stefan Piperov (scientific application analyst)
@@ -26,7 +26,7 @@ author_profile: true
 * Manoj Jha, 2012 – 2016 (Equifax Inc.)
 * Santiago Folgueras, 2016 – 2017 (University of Oviedo, Spain)
 * Nicolò Trevisani, 2019 - 2019 (KIT, Germany)
-* Federica Primavera, 2014 – 2015 (University of Bologna, Italy)
+* Federica Primavera, 2014 – 2015 (University of Padova, Italy)
 * Benjamin Radburn-Smith, 2013 – 2016 (Seoul National University, Korea)
 * Hwidong Yoo, 2008 – 2014 (Yonsei University, Korea)
 * Suneel Dutt, 2012 – 2013 (National Institute of Technology (NIT) Jalandhar, India)
