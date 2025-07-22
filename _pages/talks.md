@@ -11,24 +11,24 @@ Presentations given by members of my group:
 * Hyeon-Seo Yun, **The CMS Higgs to mumu search**, Workshop on physics analysis at the HL-LHC, CERN, 15-16 May, 2025.
 * Ram Krishna Sharma, **Higgs boson properties with ATLAS and CMS**, Mitchell2025: The Mitchell Conference on Collider, Dark Matter, and Neutrino Physics, College Station, Texas, 13-16 May, 2025.
 * Norbert Neumeister, **Searches for new physics in events with dileptons and b quarks**,  Lake Louise Winter Institute 2025, Lake Louise, Canada, 2-8 Mar, 2025.
-* Dmitry Kondratyev, **The Purdue CMS Analysis Facility**, HEPiX Fall 2024 Workshop, 4-8 Nov 2024, University of Oklahoma, Norman, OK.
-* Amandeep Kaur, **Anomaly detection in CMS**, LHCP2024: 12th Large Hadron Collider Physics Conference, 3-7 Jun 2024, Boston, MA.
+* Dmitry Kondratyev, **The Purdue CMS Analysis Facility**, HEPiX Fall 2024 Workshop, University of Oklahoma, Norman, OK, 4-8 Nov, 2024.
+* Amandeep Kaur, **Anomaly detection in CMS**, LHCP2024: 12th Large Hadron Collider Physics Conference, Boston, MA, 3-7 Jun, 2024.
 * Norbert Neumeister, **Searches for physics beyond SM at the LHC**, 42nd International Symposium on Physics in Collision (PIC 2023), Arica, Chile, 10-14 Oct, 2023.
-* Norbert Neumeister, **Search for L violating and lepton flavor violating processes at the LHC**, BLV2022: 2022 International Workshop on Baryon and Lepton Number Violation, 5-8 Sep 2022, ULB, Brussels, Belgium.
-* Amandeep Kaur, **Measurement of Higgs boson production in association with a W or Z boson using the full Run 2 dataset at CMS**, AEPSHEP2022: 2022 Asia-Europe-Pacific School of High-Energy Physics, 5-18 Oct 2022, Pyeongchang, Korea.
-* Arnab Purohit, **Recent HL-LHC projections from CMS**, ICHEP2022: 41st International Conference on High Energy Physics, 6-13 Jul 2022, Bologna, Italy.
-* Dmitry Kondratyev, **Implementation and benchmarking of a columnar analysis framework for searches of the Higgs boson decays into two muons**, CompTools2021: Computational Tools for High Energy Physics and Cosmology, 22-26 Nov 2021, Lyon, France.
+* Norbert Neumeister, **Search for L violating and lepton flavor violating processes at the LHC**, BLV2022: 2022 International Workshop on Baryon and Lepton Number Violation, ULB, Brussels, Belgium, 5-8 Sep, 2022.
+* Amandeep Kaur, **Measurement of Higgs boson production in association with a W or Z boson using the full Run 2 dataset at CMS**, AEPSHEP2022: 2022 Asia-Europe-Pacific School of High-Energy Physics, Pyeongchang, Korea, 5-18 Oct, 2022.
+* Arnab Purohit, **Recent HL-LHC projections from CMS**, ICHEP2022: 41st International Conference on High Energy Physics, Bologna, Italy, 6-13 Jul 2022.
+* Dmitry Kondratyev, **Implementation and benchmarking of a columnar analysis framework for searches of the Higgs boson decays into two muons**, CompTools2021: Computational Tools for High Energy Physics and Cosmology, Lyon, France, 22-26 Nov 2021.
 *	Arnab Purohit, **Experimental searches for low & high mass Higgs bosons**, Hunting SUSY at HL-LHC, India, Nov 22-26, 2021.
 * Jan-Frederik Schulte, **Searches for new physics in CMS in events with leptons and photons in the final state**, EPS-HEP2021: European Physical Society Conference on High Energy Physics, DESY and University of Hamburg, 26-30 Jul 2021, Video only (Virtual World).
 * Dmitry Kondratyev, **The first evidence for Higgs boson decay to a pair of muons**, American Physical Society April Meeting 2021, 17-20 Apr 2021, Video only (Virtual World).
 *	Minxi Yang, **Testing lepton flavor universality with high mass dilepton events using the CMS Run 2 dataset**, American Physical Society April Meeting 2021, 17-20 Apr 2021, Video only (Virtual World).
 *	Arnab Purohit, **Evidence for the Higgs Boson Interaction with Muons by CMS**, DAE-BNRS High Energy Physics Symposium 2020, India, Dec 2020.
-*	Dmitry Kondratyev, **MC template-based search for Higgs boson decays into a pair of muons targeting the VBF production channel**, Higgs 2020 Conference, 26-30 Oct 2020.
+*	Dmitry Kondratyev, **MC template-based search for Higgs boson decays into a pair of muons targeting the VBF production channel**, Higgs 2020 Conference, 26-30 Oct, 2020.
 *	Arnab Purohit, **Phase II Muon Status and Plan**, Upgrade Performance Studies Workshop, CERN, Sep 2020.
-*	N. Neumeister, **Searches for new heavy resonances in final states with leptons, photons, and jets at CMS**, PHENO2019: Phenomenology 2019 Symposium, University of Pittsburgh, Pittsburgh, PA, 6-8 May 2019.
-*	Jan-Frederik Schulte, **LHC Exotica results** at SUSY2019: 27th International Conference on Supersymmetry and Unification of Fundamental Interactions, 20-24 May 2019, Corpus Christi, TX.
+*	N. Neumeister, **Searches for new heavy resonances in final states with leptons, photons, and jets at CMS**, PHENO2019: Phenomenology 2019 Symposium, University of Pittsburgh, Pittsburgh, PA, 6-8 May, 2019.
+*	Jan-Frederik Schulte, **LHC Exotica results** at SUSY2019: 27th International Conference on Supersymmetry and Unification of Fundamental Interactions, Corpus Christi, TX, 20-24 May, 2019.
 *	N. Neumeister, **CMS searches for Leptoquarks, W' and Z'**, DISCRETE 2018: 6th Symposium on Prospects in the Physics of Discrete Symmetries, Vienna, Austria, November 26-30, 2018.
-*	Jan-Frederik Schulte, **Tracking, alignment and b-tagging performance and prospects in CMS**, LHCP2018: Sixth Annual Conference on Large Hadron Collider Physics, Bologna (Italy), 4-9 June 2018.
+*	Jan-Frederik Schulte, **Tracking, alignment and b-tagging performance and prospects in CMS**, LHCP2018: Sixth Annual Conference on Large Hadron Collider Physics, Bologna (Italy), 4-9 June, 2018.
 *	N. Neumeister, **Inclusive and differential W/Z W at ATLAS and CMS**, Rencontres de Moriond QCD: La Thuile, Italy, March 17 – 24, 2018.
 *	N. Neumeister, **Standard Model Measurements at CMS**, 6th International Conference on new Frontiers in Physics 2017 (ICNFP2017), Kolymvari, Greece, August 17–26, 2017.
 *	N. Neumeister, **Searches for new heavy resonances in final states with leptons, photons, and jets in CMS**, 2017 Meeting of the Division of Particles and Fields of the American Physical Society (DPF 2017), Fermilab, Batavia, IL, July 31 – August 4, 2017.
