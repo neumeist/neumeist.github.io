@@ -10,6 +10,7 @@ author_profile: true
 <!--  Chin Lung Tan (postdoc) -->
 * Ram Krishna Sharma (postdoc)
 * Hyeon Seo Yun (graduate student)
+* Xudong Hu (graduate student)
 * Stefan Piperov (scientific application analyst)
 * Dmitry Kondratyev (research software engineer)
 * Nick Smith (research solutions engineer)
