@@ -75,6 +75,7 @@ Professional Service
 * Principal investigator of the US CMS Tier-2 analysis center at Purdue (2005 – present)
 * Purdue Institutional Representative to the CMS Collaboration Board (2013 – present)
 * Member of the CMS Thesis Award Committee (2018 – present)
+* Member of the CMS Authorship Committee (2025 - 2027)
 * LPC Management Board (2019 – 2020)
 * Co-convener of the LPC Run2 Discussion group on Leptons and Trigger (2017 – 2020)
 * Co-convener of the CMS Muon Physics Object group (2007): ~80 people
@@ -95,10 +96,11 @@ releases.
 * Member of the CMS Physics Reconstruction and Selection editorial board (2004 – 2006)
 * Member of the Editorial Board (Editor) of International Journal of Modern Physics A (2024 - present)
 * Member of the Editorial Board (Editor) of Modern Physics Letters A (2024 - present)
-* Worldwide LHC Computing Grid (WLCG) collaboration board member (2006 – 2011)
-* Frequent reviewer of Nuclear Instruments and Methods in Physics Research
-* Frequent reviewer of IEEE Transactions on Nuclear Science
-* Frequent reviewer of Journal of Physics
+* Worldwide LHC Computing Grid (WLCG) collaboration board member (2006 – present)
+* Reviewer of Nuclear Instruments and Methods in Physics Research 
+* Reviewer of IEEE Transactions on Nuclear Science
+* Reviewer of Journal of Physics
+* Reviewer of Physical Review Letters
 * Reviewer of U.S. National Science Foundation proposals
 * Reviewer of U.S. Department of Energy proposals
 * Reviewer for the Portuguese Funding agency (FCT)
