@@ -8,6 +8,7 @@ author_profile: true
 ## Current Members
 * Norbert Neumeister (PI)
 <!--  Chin Lung Tan (postdoc) -->
+* Matheus Pereira Macedo De Sousa (postdoc)
 * Ram Krishna Sharma (postdoc)
 * Hyeon Seo Yun (graduate student)
 * Xudong Hu (graduate student)
