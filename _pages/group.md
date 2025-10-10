@@ -21,9 +21,9 @@ author_profile: true
 * Valerie Scheurer, 2023 - 2024
 * Dmitry Kondratyev, Ph.D. 2022 (Purdue University)
 * Minxi Yang, Ph.D. 2022 (deceased)
-* Arnab Purohit, 2021 - 2023
-* Jan-Frederick Schulte, 2016 - 2022 (Purdue University)
-* Erik Gough, 2011 - 2022 (Purdue University)
+* Arnab Purohit, 2021 – 2023
+* Jan-Frederick Schulte, 2016 – 2022 (Purdue University)
+* Erik Gough, 2011 – 2022 (Purdue University)
 * Bibhuprasad Mahakud, 2018 – 2019 (Indian Institute of Technology Bhubaneswar, India)
 * Manoj Jha, 2012 – 2016 (Equifax Inc.)
 * Santiago Folgueras, 2016 – 2017 (University of Oviedo, Spain)
@@ -38,16 +38,16 @@ author_profile: true
 * Amandeep Bakshi, M.S. 2017 – 2018 (Purdue University)
 * Cheng-Chieh Peng, 2013 – 2015 (Intel Corporation)
 * Kurt Larson, 2014 – 2016 (Industry)
-* Lingshan Xu, 2011– 2012 (Industry)
+* Lingshan Xu, 2011 – 2012 (Industry)
 * Michael Meier, 2009 – 2010 (Industry)
-* Alessandro Grelli, 2008 - 2009 (Utrecht University, Netherlands)
+* Alessandro Grelli, 2008 – 2009 (Utrecht University, Netherlands)
 * Edwin Antillon, 2007 – 2009 (Industry)
 * Fengping Hu, 2007 – 2013 (University of North Carolina)
 * Haiying Xu, 2006 – 2011 (NCAR)
 * Majid Arabgol, 2013 – 2019 (Microsoft Corporation)
-* Haotian Zhou, 2018 - 2020
-* Stylianos Gregoriou, 2020 - 2021
-* Fan Zhang, 2018 - 2019
+* Haotian Zhou, 2018 – 2020
+* Stylianos Gregoriou, 2020 – 2021
+* Fan Zhang, 2018 – 2019
 
 ## Open Positions
 If you are interested to join the group as a [postdoc](https://inspirehep.net/jobs/2174859) or graduate student please contact me by email.
