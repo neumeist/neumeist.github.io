@@ -26,6 +26,7 @@ author_profile: true
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 * [Machine Learning for Particle Physics](https://github.com/iml-wg/HEPML-LivingReview)
+* [Neural Network Tutorial](https://twiki.cern.ch/twiki/bin/viewauth/CMS/PedBargNNtutorial)
 
 ## Technical Information
 * [Getting a CERN computer account](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookGetAccount)
