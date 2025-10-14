@@ -8,9 +8,6 @@ author_profile: true
 
 # Miscellanea
 
-## Group Twiki
-* [Purdue Confluence](https://wiki.itap.purdue.edu/display/CMSPhysics/Purdue+CMS+Physics) 
-
 ## Resources for Students
 * [The Particle Adventure](https://particleadventure.org)
 * [CERN Summer Student Lectures](https://indico.cern.ch/category/345/) 
