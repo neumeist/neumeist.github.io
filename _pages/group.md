@@ -35,7 +35,7 @@ author_profile: true
 * Adam Everett, 2006 – 2012 (US Army)
 * Chang Liu, Ph.D. 2009 (Finance)
 * Alexey Svyatkovskiy, Ph.D. 2014 (Microsoft Corporation)
-* Amandeep Bakshi, M.S. 2017 – 2018 (Purdue University)
+* Amandeep Bakshi, M.S. 2017 – 2018 (Amazon)
 * Cheng-Chieh Peng, 2013 – 2015 (Intel Corporation)
 * Kurt Larson, 2014 – 2016 (Industry)
 * Lingshan Xu, 2011 – 2012 (Industry)
