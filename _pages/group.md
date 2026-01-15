@@ -18,10 +18,10 @@ author_profile: true
 
 ## Former Members
 * Amandeep Kaur, 2022 - 2025 (Rutgers University)
-* Valerie Scheurer, 2023 - 2024
+* Valerie Scheurer, 2023 - 2024 (National Technical University of Athens)
 * Dmitry Kondratyev, Ph.D. 2022 (Purdue University)
 * Minxi Yang, Ph.D. 2022 (deceased)
-* Arnab Purohit, 2021 – 2023
+* Arnab Purohit, 2021 – 2023 (niversit\'e Claude Bernard Lyon, France)
 * Jan-Frederick Schulte, 2016 – 2022 (Purdue University)
 * Erik Gough, 2011 – 2022 (Purdue University)
 * Bibhuprasad Mahakud, 2018 – 2019 (Indian Institute of Technology Bhubaneswar, India)
@@ -29,7 +29,7 @@ author_profile: true
 * Santiago Folgueras, 2016 – 2017 (University of Oviedo, Spain)
 * Nicolò Trevisani, 2019 - 2019 (KIT, Germany)
 * Federica Primavera, 2014 – 2015 (University of Padova, Italy)
-* Benjamin Radburn-Smith, 2013 – 2016 (Seoul National University, Korea)
+* Benjamin Radburn-Smith, 2013 – 2016 (Imperial College London, UK )
 * Hwidong Yoo, 2008 – 2014 (Yonsei University, Korea)
 * Suneel Dutt, 2012 – 2013 (National Institute of Technology (NIT) Jalandhar, India)
 * Adam Everett, 2006 – 2012 (US Army)
