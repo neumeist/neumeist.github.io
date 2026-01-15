@@ -21,7 +21,7 @@ author_profile: true
 * Valerie Scheurer, 2023 - 2024 (National Technical University of Athens)
 * Dmitry Kondratyev, Ph.D. 2022 (Purdue University)
 * Minxi Yang, Ph.D. 2022 (deceased)
-* Arnab Purohit, 2021 – 2023 (niversit\'e Claude Bernard Lyon, France)
+* Arnab Purohit, 2021 – 2023 (Universite Claude Bernard Lyon, France)
 * Jan-Frederick Schulte, 2016 – 2022 (Purdue University)
 * Erik Gough, 2011 – 2022 (Purdue University)
 * Bibhuprasad Mahakud, 2018 – 2019 (Indian Institute of Technology Bhubaneswar, India)
