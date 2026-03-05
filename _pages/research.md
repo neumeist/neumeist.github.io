@@ -48,13 +48,12 @@ local Analysis Facility using custom [Dask](https://dask.org) workflows in a way
 computing resources.  
 
 - **Analysis Facility:**
-: The Analysis Facility (AF) at the Tier-2 center at Purdue is implemented on top of the existing CMS computing infrastructure and
-includes a dedicated Storage Element based on HDFS; a dedicated Compute Element, as well as
-opportunistic access to all Community Clusters, including one dedicated to GPU workloads;
-and centralized disk- and tape-storage systems. After its currently undergoing expansion, the
-AF will also allow bursting into the public cloud providers.
-In its final design the Analysis Facility will the [Geddes Composable Platform](https://doi.org/10.1109/SuperCompCloud51944.2020.00011) - a Kubernetes-based “Community Cloud” resource at 
-Purdue - to provide a platform for flexible, elastic, and customizable cloud and container computing with bursting capabilities to the Community Clusters at Purdue, the Open Science Grid, and public clouds.
+: The [Purdue Analysis Facility](https://analysis-facility.physics.purdue.edu/en/latest/) (Purdue AF) is an interactive, Kubernetes-based computational platform that provides CMS researchers with a comprehensive set of tools and services for end-to-end development and execution of physics analyses. It serves both as a primary development environment for ongoing CMS Run 3 analyses and as a sandbox for testing novel software and data infrastructure solutions under realistic conditions. Purdue AF is also used as a testbed for HL-LHC benchmarking campaigns such as the IRIS-HEP Integration Challenge.  The AF is based on the [Geddes Composable Platform](https://doi.org/10.1109/SuperCompCloud51944.2020.00011) - a Kubernetes-based “Community Cloud” resource at 
+Purdue - that provides a platform for flexible, elastic, and customizable cloud and container computing with bursting capabilities to the Community Clusters at Purdue, the Open Science Grid, and public clouds.
+The AF is implemented on top of the existing CMS computing infrastructure and includes a dedicated Storage Element based on HDFS; a dedicated Compute Element, as well as
+opportunistic access to all Community Clusters, including one dedicated to GPU workloads; and centralized disk- and tape-storage systems.
+
+The cloud-native technologies used to deploy Purdue AF on Kubernetes, analysis software distribution using Pixi, and in-depth monitoring using the Grafana observability suite makes Purdue AF a robust and observable platform from both user and admin perspectives. We are currently working on the integration of LLM-enabled IDEs, leveraging generative models and agentic tools to assist with code development and debugging.
 
 - **Principal investigator of the US CMS Tier-2 analysis center at Purdue:**
 : In collaboration with the [Information Technology at Purdue (ITaP) research computing](https://www.rcac.purdue.edu/about) I am operating the [CMS Tier-2 analysis center](http://www.physics.purdue.edu/Tier2/), which enables and supports important physics analyses.
