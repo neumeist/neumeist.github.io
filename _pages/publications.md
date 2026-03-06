@@ -251,7 +251,7 @@ Phys. Lett. B **275** (1992) 186–194.
 [doi:10.1016/0370-2693(92)90874-4](https://doi.org/10.1016/0370-2693(92)90874-4)
 
 ---
-* CMS Collaboration, **Search for a new resonance decaying to a pair of Higgs bosons in the $WW\gamma\gamma$ final state in proton-proton collisions at &radic;s = 16 TeV**, [CMS PAS-B2G-24-010](https://cds.cern.ch/record/2946991).
+* CMS Collaboration, **Search for a new resonance decaying to a pair of Higgs bosons in the $\mathbf{WW\gamma\gamma}$ final state in proton-proton collisions at &radic;s = 13 TeV**, [CMS PAS-B2G-24-010](https://cds.cern.ch/record/2946991).
 * CMS Collaboration, **Search for nonresonant new physics in high-mass dilepton events in association with b-tagged jets**, [CMS PAS-EXO-23-010](https://cds.cern.ch/record/2905176?ln=en).
 *	ATLAS & CMS Collaboration, **Snowmass White Paper Contribution: Physics with the Phase-2 ATLAS and CMS Detectors**, [CMS PAS-FTR-22-001](https://cds.cern.ch/record/2806962?ln=en).
 *	CMS Collaboration, **Prospects for the precise measurement of the Higgs boson properties in the H→μμ decay channel at the HL-LHC**, [CMS PAS-FTR-21-006](https://cds.cern.ch/record/2804002?ln=en).
@@ -279,7 +279,7 @@ Phys. Lett. B **275** (1992) 186–194.
 * CMS Collaboration, **Measurement of the charge asymmetry of atmospheric muons with the CMS detector**, [CMS PAS-MUO-10-001](https://cds.cern.ch/record/1259232?ln=en).
 
 ---
-* M. Campana, M. Chen, J. Dervan, F. Iemmi, T. Orimoto, R.K. Sharma, S. Song, J. Tao, and J. Wang, **Search for $X\to H(\gamma\gamma)Y(WW)$ in proton-proton collisions at &radic;s = 13 TeV**, CMS AN-2025-219.
+* M. Campana, M. Chen, J. Dervan, F. Iemmi, T. Orimoto, R.K. Sharma, S. Song, J. Tao, and J. Wang, **Search for $\mathbf{X\to H(\gamma\gamma)Y(WW)}$ in proton-proton collisions at &radic;s = 13 TeV**, CMS AN-2025-219.
 * V. Scheurer, A. Purohit, N. Neumeister, **Search for Higgs boson decays into muons using the Run 2 ultra-legacy datasets**, CMS AN-2023/017.  
 * D. Kondratyev, **Studies to improve the MC template-based analysis strategy of the H→μμ search in preparation for Run 3**, CMS AN-2022/145.  
 * S. Jeon, M. Oh, M. Klute, D. Bourilkov, N. Neumeister, M. Liu, J.-F. Schulte, M. Yang, A. Kaur, S. Elgammel, M. Maggi, F. Errico, K. Liyanage, **Search for nonresonant new physics in high-mass dilepton events in association with b-tagged jets**, CMS AN-2022/058.  
