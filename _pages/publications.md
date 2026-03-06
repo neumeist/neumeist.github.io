@@ -12,8 +12,8 @@ J. High Energ. Phys. **02** (2026) 141.
 [doi.org/10.1007/JHEP02(2026)141](https://doi.org/10.1007/JHEP02(2026)141).
 
 * A. Hayrapetyan, et al. [CMS Collaboration], **Performance of the CMS high-level trigger during LHC Run 2**,
-Journal of Instrumentation **19** (2024) P11021
-[doi:10.1088/1748-0221/19/11/P11021]([https://arxiv.org/html/2410.17038v1](https://iopscience.iop.org/article/10.1088/1748-0221/19/11/P11021)).
+Journal of Instrumentation **19** (2024) P11021.
+[doi:10.1088/1748-0221/19/11/P11021](https://iopscience.iop.org/article/10.1088/1748-0221/19/11/P11021).
   
 * A. Sirunyan et al. [CMS Collaboration], **A portrait of the Higgs boson by the CMS experiment ten years after the discovery**,
 Nature (2022).  
@@ -279,7 +279,7 @@ Phys. Lett. B **275** (1992) 186–194.
 * CMS Collaboration, **Measurement of the charge asymmetry of atmospheric muons with the CMS detector**, [CMS PAS-MUO-10-001](https://cds.cern.ch/record/1259232?ln=en).
 
 ---
-AN %CMS PAS B2G-24-010.
+* M. Campana, M. Chen, J. Dervan, F. Iemmi, T. Orimoto, R.K. Sharma, S. Song, J. Tao, and J. Wang, **Search for $X\to H(\gamma\gamma)Y(WW)$ in proton-proton collisions at &radic;s = 13 TeV**, CMS AN-2025-219.
 * V. Scheurer, A. Purohit, N. Neumeister, **Search for Higgs boson decays into muons using the Run 2 ultra-legacy datasets**, CMS AN-2023/017.  
 * D. Kondratyev, **Studies to improve the MC template-based analysis strategy of the H→μμ search in preparation for Run 3**, CMS AN-2022/145.  
 * S. Jeon, M. Oh, M. Klute, D. Bourilkov, N. Neumeister, M. Liu, J.-F. Schulte, M. Yang, A. Kaur, S. Elgammel, M. Maggi, F. Errico, K. Liyanage, **Search for nonresonant new physics in high-mass dilepton events in association with b-tagged jets**, CMS AN-2022/058.  
