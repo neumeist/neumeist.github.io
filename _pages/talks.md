@@ -7,6 +7,7 @@ author_profile: true
 
 Presentations given by members of my group:
 
+* Norbert Neumeister, **Purdue Analysis Facility: An Interactive Platform for HL-LHC Era Data Analysis**, 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026), Bangkok, Thailand, 25-29 May, 2026.
 * Dmitry Kondratyev, **SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**, PEARC (Practice and Experience in Advanced Research Computing) Conference, Columbus, OH, 20-24 July, 2025.
 * Hyeon-Seo Yun, **The CMS Higgs to mumu search**, Workshop on physics analysis at the HL-LHC, CERN, 15-16 May, 2025.
 * Ram Krishna Sharma, **Higgs boson properties with ATLAS and CMS**, Mitchell2025: The Mitchell Conference on Collider, Dark Matter, and Neutrino Physics, College Station, Texas, 13-16 May, 2025.
