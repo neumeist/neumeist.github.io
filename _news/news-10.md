@@ -1,5 +1,5 @@
 ---
-title: "HUNTING HEAVY PARTICLES THROUGH HIGH-MASS PAIRS OF ELECTRONS OR MUONS"
+title: "Hunting Heavy Particles Through High-Mass Pairs of Electrons or Muons"
 date: 2026-06-01
 excerpt: "<br/><img src='/images/EXO-25-021.png' width='750'>"
 collection: news
