@@ -280,11 +280,16 @@ Phys. Lett. B **275** (1992) 186–194.
 * CMS Collaboration, **Measurement of the charge asymmetry of atmospheric muons with the CMS detector**, [CMS PAS-MUO-10-001](https://cds.cern.ch/record/1259232?ln=en).
 
 ---
-* N. Neumeister, R.K. Sharma, and H.-S. Yun, **Search for Higgs boson decays into muons using the Run 3 dataset**, CMS AN-2026/092.
+* N. Neumeister, R.K. Sharma, and H.-S. Yun, X. Hu, **Search for Higgs boson decays into muons using the Run 3 dataset**, CMS AN-2026/092.
 * M. Campana, M. Chen, J. Dervan, F. Iemmi, T. Orimoto, R.K. Sharma, S. Song, J. Tao, and J. Wang, **Search for $\mathbf{X\to H(\gamma\gamma)Y(WW)}$ in proton-proton collisions at &radic;s = 13 TeV**, CMS AN-2025/219.
-* V. Scheurer, A. Purohit, N. Neumeister, **Search for Higgs boson decays into muons using the Run 2 ultra-legacy datasets**, CMS AN-2023/017.  
+* F.C. Roman, B. Clerbaux, I. Kalaitzidou, N. Neumeister, M. Macedo, and L. Thomas, **Search for resonant new phenomena in high-mass dilepton final states in pp collisions at 13.6 TeV**, CMS AN-25-107.
+*	G. Boldrini, C. Komjáti, A. Hinzmann, A. Mehta, V. Milosevic, G. Pásztor, S. Bansal, R.K. Sharma, **Search for anomalous triple gauge couplings in the semi-leptonic WV final state at √s = 13 TeV with full Run 2 dataset**, CMS AN-2024/215.
+*	P.K. Behera, M. Chen, B. Choudhary, H. Gao, T.A. Goldschmidt, A. Kalogeropoulos, S. Keshri, I. Lashvili, Y.Li, P. Milenovic, V. Milosevic, J. Motta, A. Raspiareza, C. Shen, S. Thakur, A. Vijay, L. Yuan, R.K. Sharma, **Search for Spin-0 diboson resonances in the 2l2ν final state at √s = 13 TeV with the full Run II dataset**, CMS AN-2024/237.
+* F. Errico, J. Von Den Driesch, D. Fernandez Del Val, D. Guthmann, F. Primavera, M. Bonanomi, P. Angiras, R.K. Sharma, **Muon calibration using Run 3 data with the CMS detector**, CMS AN-2024/170.
+* M. Chen, F. Iemmi, S. Song, J. Tao, C. Wang, J. Wang, J. Zhang, Z. Zhang, J. Dervan, T. Orimoto, M. Campana, F. Monti, R.K. Sharma, **Search for a new resonance decaying to a pair of Higgs bosons or into a Higgs boson and a new scalar in the WWγγ final state in proton-proton collisions at √s = 13 TeV**, CMS AN-2023/071.
+* V. Scheurer, R.K. Sharma, H.-S. Yun, N. Neumeister, **Search for Higgs boson decays into muons using the Run 2 ultra-legacy datasets**, CMS AN-2023/017.  
 * D. Kondratyev, **Studies to improve the MC template-based analysis strategy of the H→μμ search in preparation for Run 3**, CMS AN-2022/145.  
-* S. Jeon, M. Oh, M. Klute, D. Bourilkov, N. Neumeister, M. Liu, J.-F. Schulte, M. Yang, A. Kaur, S. Elgammel, M. Maggi, F. Errico, K. Liyanage, **Search for nonresonant new physics in high-mass dilepton events in association with b-tagged jets**, CMS AN-2022/058.  
+* S. Jeon, M. Oh, M. Klute, D. Bourilkov, N. Neumeister, M. Liu, J.-F. Schulte, M. Yang, H.-S. Yin, A. Kaur, R. Goldouzian, H. Yoo, C.A. Cooke, S. Harper, **Search for nonresonant new physics in high-mass dilepton events in association with b-tagged jets**, CMS AN-2022/058.  
 * D. Kondratyev, A. Purohit, N. Neumeister, **Extrapolated measurement precision for Higgs boson properties in the H→μμ decay channel at the HL-LHC for Snowmass 2022**, CMS AN-2022/006.  
 * N. Neumeister, J.-F, Schulte, M. Yang, **Sensitivity extrapolation for the Run 3 and HL-LHC data taking periods for the high mass dilepton search**, CMS AN-2021/188.  
 * D. Kondratyev, A. Purohit, J.-F. Schulte, N. Neumeister, **Optimization of the outside-in Level-3 muon reconstruction CMS Muon High Level Trigger**, CMS AN-2021/156.  
