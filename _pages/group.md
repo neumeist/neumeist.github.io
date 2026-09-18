@@ -8,7 +8,7 @@ author_profile: true
 ## Current Members
 * Norbert Neumeister (PI)
 <!--  Chin Lung Tan (postdoc) -->
-* Matheus Pereira Macedo De Sousa (postdoc)
+* Kuan-Yu Lin (postdoc)
 * Ram Krishna Sharma (postdoc)
 * Hyeon Seo Yun (graduate student)
 * Xudong Hu (graduate student)
@@ -17,6 +17,7 @@ author_profile: true
 * Nick Smith (research solutions engineer)
 
 ## Former Members
+* Matheus Pereira Macedo De Sousa, 2025 - 2026 (National Institute of Chemical Physics and Biophysics, Estonia)
 * Amandeep Kaur, 2022 - 2025 (Rutgers University)
 * Valerie Scheurer, 2023 - 2024 (National Technical University of Athens)
 * Dmitry Kondratyev, Ph.D. 2022 (Purdue University)
