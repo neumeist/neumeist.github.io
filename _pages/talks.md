@@ -7,19 +7,20 @@ author_profile: true
 
 Presentations given by members of my group:
 
+* Dmitry Kondratyev, **USCMS Analysis Facilities**, HEPiX Fall 2026 Workshop, University of Nebraska - Lincoln, NE, 19-23 October, 2026.
 * Ram Krishna Sharma, **Higgs boson decay to a pair of muons with Run2 and Run3 data**, DPF 2026: Biennial Meeting of the APS Division of Particles and Fields, Fermilab, Batavia, IL, 20-24 July 2026.
 * Norbert Neumeister, **Purdue Analysis Facility: An Interactive Platform for HL-LHC Era Data Analysis**, 28th Conference on Computing in High Energy and Nuclear Physics (CHEP 2026), Bangkok, Thailand, 25-29 May, 2026.
 * Dmitry Kondratyev, **SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**, PEARC (Practice and Experience in Advanced Research Computing) Conference, Columbus, OH, 20-24 July, 2025.
 * Hyeon-Seo Yun, **The CMS Higgs to mumu search**, Workshop on physics analysis at the HL-LHC, CERN, 15-16 May, 2025.
 * Ram Krishna Sharma, **Higgs boson properties with ATLAS and CMS**, Mitchell2025: The Mitchell Conference on Collider, Dark Matter, and Neutrino Physics, College Station, Texas, 13-16 May, 2025.
-* Norbert Neumeister, **Searches for new physics in events with dileptons and b quarks**,  Lake Louise Winter Institute 2025, Lake Louise, Canada, 2-8 Mar, 2025.
-* Dmitry Kondratyev, **The Purdue CMS Analysis Facility**, HEPiX Fall 2024 Workshop, University of Oklahoma, Norman, OK, 4-8 Nov, 2024.
-* Amandeep Kaur, **Anomaly detection in CMS**, LHCP2024: 12th Large Hadron Collider Physics Conference, Boston, MA, 3-7 Jun, 2024.
-* Norbert Neumeister, **Searches for physics beyond SM at the LHC**, 42nd International Symposium on Physics in Collision (PIC 2023), Arica, Chile, 10-14 Oct, 2023.
-* Norbert Neumeister, **Search for L violating and lepton flavor violating processes at the LHC**, BLV2022: 2022 International Workshop on Baryon and Lepton Number Violation, ULB, Brussels, Belgium, 5-8 Sep, 2022.
-* Amandeep Kaur, **Measurement of Higgs boson production in association with a W or Z boson using the full Run 2 dataset at CMS**, AEPSHEP2022: 2022 Asia-Europe-Pacific School of High-Energy Physics, Pyeongchang, Korea, 5-18 Oct, 2022.
-* Arnab Purohit, **Recent HL-LHC projections from CMS**, ICHEP2022: 41st International Conference on High Energy Physics, Bologna, Italy, 6-13 Jul 2022.
-* Dmitry Kondratyev, **Implementation and benchmarking of a columnar analysis framework for searches of the Higgs boson decays into two muons**, CompTools2021: Computational Tools for High Energy Physics and Cosmology, Lyon, France, 22-26 Nov 2021.
+* Norbert Neumeister, **Searches for new physics in events with dileptons and b quarks**,  Lake Louise Winter Institute 2025, Lake Louise, Canada, 2-8 March, 2025.
+* Dmitry Kondratyev, **The Purdue CMS Analysis Facility**, HEPiX Fall 2024 Workshop, University of Oklahoma, Norman, OK, 4-8 November, 2024.
+* Amandeep Kaur, **Anomaly detection in CMS**, LHCP2024: 12th Large Hadron Collider Physics Conference, Boston, MA, 3-7 June, 2024.
+* Norbert Neumeister, **Searches for physics beyond SM at the LHC**, 42nd International Symposium on Physics in Collision (PIC 2023), Arica, Chile, 10-14 October, 2023.
+* Norbert Neumeister, **Search for L violating and lepton flavor violating processes at the LHC**, BLV2022: 2022 International Workshop on Baryon and Lepton Number Violation, ULB, Brussels, Belgium, 5-8 September, 2022.
+* Amandeep Kaur, **Measurement of Higgs boson production in association with a W or Z boson using the full Run 2 dataset at CMS**, AEPSHEP2022: 2022 Asia-Europe-Pacific School of High-Energy Physics, Pyeongchang, Korea, 5-18 October, 2022.
+* Arnab Purohit, **Recent HL-LHC projections from CMS**, ICHEP2022: 41st International Conference on High Energy Physics, Bologna, Italy, 6-13 July 2022.
+* Dmitry Kondratyev, **Implementation and benchmarking of a columnar analysis framework for searches of the Higgs boson decays into two muons**, CompTools2021: Computational Tools for High Energy Physics and Cosmology, Lyon, France, 22-26 November, 2021.
 *	Arnab Purohit, **Experimental searches for low & high mass Higgs bosons**, Hunting SUSY at HL-LHC, India, Nov 22-26, 2021.
 * Jan-Frederik Schulte, **Searches for new physics in CMS in events with leptons and photons in the final state**, EPS-HEP2021: European Physical Society Conference on High Energy Physics, DESY and University of Hamburg, 26-30 Jul 2021, Video only (Virtual World).
 * Dmitry Kondratyev, **The first evidence for Higgs boson decay to a pair of muons**, American Physical Society April Meeting 2021, 17-20 Apr 2021, Video only (Virtual World).
