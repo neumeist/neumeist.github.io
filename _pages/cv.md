@@ -53,7 +53,7 @@ Awards and Honors
 ======
 * Department of Energy (DoE) Outstanding Junior Investigator Award in High Energy Physics 2006
 * Ruth & Joel Spira Award for Excellence in Undergraduate Education, Physics Department 2008
-* Seed for Success Award, Purdue University 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2019
+* Seed for Success Award, Purdue University 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2019, 2026
 * Purdue Research Foundation Research Grant 2005, 2006
 * CERN research fellowship 1999 – 2001
 * Co-recipient of the Particle Physics Prize of the European Physical Society 2013
